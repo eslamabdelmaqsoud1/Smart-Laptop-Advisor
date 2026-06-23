@@ -1,0 +1,777 @@
+Date,Quantity,number,model_name,brand,processor_name,ram(GB),ssd(GB),Hard Disk(GB),Operating System,graphics,screen_size(inches),resolution (pixels),no_of_cores,no_of_threads,spec_score,price,GPU_Score,VRAM_GB,CPU_Generation,CPU_Class,Category
+2023-01-01,1,83,Samsung Galaxy Book 3 Pro 360 NP960QFG-KA3IN Laptop,Samsung,13th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,16.0,2880 x 1800,12,16,82,27300,1,0,13,4,Mid-Range
+2023-01-01,1,1010,HP 15s-du3519TX Laptop,HP,11th Gen Core i5,8,512,0,Windows,2 GB NVIDIA GeForce MX450,15.6,1920 x 1080,4,8,62,21500,2,2,11,3,Mid-Range
+2023-01-01,1,357,Lenovo Yoga 9i 82BG005JIN Laptop,Lenovo,11th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,14.0,3840 x 2160,4,8,67,27300,1,0,11,4,Mid-Range
+2023-01-01,1,190,Lenovo E41-55 82FJ00ALIH Laptop,Lenovo,Athlon 3150U,4,0,1000,DOS,AMD Radeon AMD,14.0,1366 x 768,2,2,48,14000,0,0,0,1,Low-End
+2023-01-02,1,629,Lenovo IdeaPad Slim 5 82FG01HAIN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,53,22300,1,0,11,3,Mid-Range
+2023-01-02,1,498,Asus VivoBook 15 2022 X515JA-EJ592WS Laptop,Asus,10th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,4,8,59,21500,1,0,10,3,Mid-Range
+2023-01-02,1,274,HP 15s- fr2512TU Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,4,8,47,15500,1,0,11,2,Low-End
+2023-01-03,1,315,Dell Latitude 3420 Laptop,Dell,11th Gen Core i5,16,256,1000,Windows,Intel UHD Graphics,14.0,1366 x 768,4,8,65,20500,1,0,11,3,Mid-Range
+2023-01-04,1,78,Samsung Galaxy Book 3 360 13 NP730QFG-KA2IN Laptop,Samsung,13th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,10,12,67,27300,1,0,13,4,Mid-Range
+2023-01-05,1,372,Dell G15-5520 D560897WIN9S Laptop,Dell,12th Gen Core i9,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,78,38000,4,6,12,5,High-End
+2023-01-06,1,128,Infinix INBook X1 Neo Laptop,Infinix, Celeron N5100,4,128,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,0,47,13000,1,0,0,1,Low-End
+2023-01-06,1,214,HP Omen 16-n0091AX Gaming Laptop,HP,AMD Ryzen 7 6800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050Ti,16.1,1920 x 1080,8,16,69,35500,3,4,0,4,Mid-Range
+2023-01-07,1,530,Infinix INBook X2 Plus XL25 Laptop,Infinix,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,47,16500,1,0,11,2,Low-End
+2023-01-07,1,525,Asus ROG Strix G17 2022 G713RS-LL023WS Gaming Laptop,Asus,AMD Ryzen 9 6900HX,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070 Ti,17.3,2560 x 1440,8,16,78,45000,5,8,0,5,High-End
+2023-01-07,1,278,Lenovo IdeaPad Gaming 3 82K101B7IN Laptop,Lenovo,11th Gen Core i5,16,256,1000,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,4,8,72,30000,3,4,11,3,Mid-Range
+2023-01-09,1,299,Lenovo Ideapad Slim 3 81WB01EBIN Laptop,Lenovo,10th Gen Core i3,8,512,0,Windows,Intel Integrated,15.6,1920 x 1080,2,4,60,16500,1,0,10,2,Low-End
+2023-01-09,1,838,Dell Latitude 5420 Business Laptop,Dell,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,51,16500,1,0,11,2,Low-End
+2023-01-09,1,920,Infinix INBook X1 Slim XL21 Laptop,Infinix,10th Gen Core i5,8,512,0,Windows,Intel Integrated UHD Graphics,14.0,1920 x 1080,4,8,49,21500,1,0,10,3,Mid-Range
+2023-01-10,1,902,Asus Vivobook S15 OLED S3502ZA-L702WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,Intel Iris XE Graphics,15.6,1920 x 1080,14,20,63,27300,1,0,12,4,Mid-Range
+2023-01-10,1,1016,Asus BR1100FKA-BP1104W Laptop,Asus,Celeron N4500,4,128,0,Windows,Intel Integrated UHD Graphics,11.6,1366 x 768,2,0,49,13000,1,0,0,1,Low-End
+2023-01-10,1,779,Lenovo ThinkPad T14  20W0S1HW00 Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,2 GB NVIDIA MX450,14.0,1920 x 1080,4,8,67,26500,2,2,11,4,Mid-Range
+2023-01-10,1,407,HP Pavilion 14-ec1005AU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,12,16,63,22300,1,0,12,3,Mid-Range
+2023-01-11,1,940,Asus Vivobook 15 Touch X515EA-EZ311WS Laptop,Asus,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD Graphics,15.6,1920 x 1080,2,4,57,16500,1,0,11,2,Low-End
+2023-01-12,1,785,Fujitsu UH-X FPC01319LK Laptop,Fujitsu,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,73,22300,1,0,11,3,Mid-Range
+2023-01-12,1,954,Asus TUF Gaming F15 FX577ZE-HN072WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,4 GB ‎NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,0,20,62,35500,3,4,12,4,Mid-Range
+2023-01-12,1,948,Apple MacBook Pro 2022 Laptop,Apple,Apple M2,8,256,0,Mac,10 Core GPU,13.3,2560 x 1600,8,0,43,13000,0,0,0,4,Mid-Range
+2023-01-12,1,649,MSI Gaming Katana GF76 11UD-849IN Laptop,MSI,11th Gen Core i7,16,512,0,Windows,4 GB Nvidia RTX 3050 Ti,17.32,1920 x 1080,8,16,69,35500,3,4,11,4,Mid-Range
+2023-01-13,1,200,Lenovo IdeaPad 3 82KU017KIN Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,6,12,57,17500,0,0,0,3,Mid-Range
+2023-01-13,1,32,Dell Inspiron 3520 Laptop,Dell,12th Gen Core i5,8,256,1000,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,53,21300,1,0,12,3,Mid-Range
+2023-01-13,1,316,Dell Inspiron 3521 Laptop,Dell,Pentium N5030,8,256,0,Windows,Intel Integrated UHD,15.6,1366 x 768,4,0,49,11500,1,0,0,1,Low-End
+2023-01-14,1,313,Asus TUF Gaming A15 2021 FA506QM-HN124W Laptop,Asus,Ryzen 9 5900HX,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,75,38000,4,6,0,5,High-End
+2023-01-14,1,352,Xiaomi RedmiBook e-Learning Edition,Xiaomi,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,55,15500,1,0,11,2,Low-End
+2023-01-15,1,240,Dell Vostro 3425 D552309WIN9BE Laptop,Dell,AMD Ryzen 3 5425U,8,512,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,4,8,61,12500,0,0,0,2,Low-End
+2023-01-15,1,720,Acer Nitro AN515-57 UN.QEHSI.003 Gaming Laptop,Acer,Intel Core i5,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,67,25000,2,4,0,3,Mid-Range
+2023-01-16,1,476,Dell Vostro 3420 D552278WIN9S Laptop,Dell,11th Gen Core i3,8,512,0,Windows,Intel Integrated,14.0,1920 x 1080,2,4,57,16500,1,0,11,2,Low-End
+2023-01-16,1,320,HP Pavilion 15-eh2018AU Laptop,HP,Ryzen 5 5625U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,6,12,60,17500,0,0,0,3,Mid-Range
+2023-01-16,1,519,Asus Vivobook 14 OLED X1405ZA-KM511WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe,14.0,2880 x 1800,10,12,61,22300,1,0,12,3,Mid-Range
+2023-01-16,1,483,Microsoft Surface Pro 9 ‎‎QIX-00031 Laptop,Microsoft,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,13.0,2880 x 1920,10,12,54,27300,1,0,12,4,Mid-Range
+2023-01-17,1,6,Infinix Zero Book Ultra Laptop,Infinix,12th Gen Core i9,16,512,0,Windows,Missing,15.6,1920 x 1080,14,20,65,16500,0,0,12,5,Mid-Range
+2023-01-17,1,116,HP 247 G8 ‎6B5R3PA Laptop,HP,AMD Ryzen 3 5300U,8,512,0,DOS,AMD Radeon Graphics,14.0,1366 x 768,4,8,56,12500,0,0,0,2,Low-End
+2023-01-17,1,969,Asus Strix G15 G513RM-HF272WS Gaming Laptop,Asus,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,81,40500,4,6,0,4,High-End
+2023-01-19,1,462,Lenovo ThinkPad E14 G3 20Y700B5IG Laptop,Lenovo,Ryzen 7 5700U,16,512,0,Windows,AMD Raedon Graphics,14.0,1920 x 1080,8,16,68,22500,0,0,0,4,Mid-Range
+2023-01-19,1,109,Asus VivoBook 14 2022 X1402ZA-EK312WS Laptop,Asus,12th Gen Core i3,8,512,0,Windows,Intel Integrated Iris Xe Graphics,14.0,1920 x 1080,10,12,61,17300,1,0,12,2,Low-End
+2023-01-20,1,287,HP Pavilion 15-eg2036TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,12,16,63,22300,1,0,12,3,Mid-Range
+2023-01-20,1,910,Asus VivoBook 14 2022 X1402ZA-EB311WS Laptop,Asus,12th Gen Core i3,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,10,12,60,17300,1,0,12,2,Low-End
+2023-01-20,1,957,Acer Predator Helios 300 NH.QC2SI.00B Laptop,Acer,11th Gen Core i9,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,8,16,78,38000,4,6,11,5,High-End
+2023-01-20,1,776,Acer Aspire 7 A715-42G UN.QAYSI.006 Gaming Laptop,Acer,AMD Ryzen 5-5500U,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,68,23500,2,4,0,3,Mid-Range
+2023-01-21,1,329,HP 15s- fq4021TU Laptop,HP,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,54,22300,1,0,11,3,Mid-Range
+2023-01-21,1,167,HP Pavilion 15-DK2100TX Gaming Laptop,HP,11th Gen Core i5,8,256,1000,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,75,26500,2,4,11,3,Mid-Range
+2023-01-21,1,185,HP 245 G8 3S7L2PA Laptop,HP,AMD Ryzen 3 3250U,4,0,1000,Windows,AMD Radeon Graphics,14.0,1920 x 1080,2,4,53,11500,0,0,0,2,Low-End
+2023-01-22,1,926,Asus TUF Gaming F15 FX507ZM-HF068WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,76,40500,4,6,12,4,High-End
+2023-01-22,1,971,Dell G15-5520 D560737WIN9B Laptop,Dell,12th Gen Core i7,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,79,40500,4,6,12,4,High-End
+2023-01-22,1,350,MSI Bravo 15 B5DD-043IN Gaming Laptop,MSI,Ryzen 5 5600H,8,512,0,Windows,4 GB AMD Radeon RX5500M,15.6,1920 x 1080,6,12,69,21500,0,4,0,3,Mid-Range
+2023-01-23,1,177,Apple MacBook Pro M2 2022 Laptop,Apple,Apple M2,16,512,0,Mac,10 Core GPU,13.3,2560 x 1600,8,0,47,14000,0,0,0,4,Mid-Range
+2023-01-23,1,620,Lenovo E41-55 ‎82C700FNGE Laptop,Lenovo,Athlon Pro 3045B,4,0,1000,Windows,AMD Radeon Graphics,15.6,1920 x 1080,2,2,42,15500,0,0,0,1,Low-End
+2023-01-23,1,495,Dell Inspiron 5415 Laptop,Dell,Ryzen 7 5700U,16,512,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,8,16,62,22500,0,0,0,4,Mid-Range
+2023-01-24,1,668,Acer Nitro 5 AN515-45 NH.QCLSI.004 Gaming Laptop,Acer,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,67,30500,3,4,0,3,Mid-Range
+2023-01-25,1,307,Samsung Galaxy Book2 15 Laptop,Samsung,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,60,22300,1,0,12,3,Mid-Range
+2023-01-25,1,33,HP 245 G8 62G68PA Laptop,HP,AMD Ryzen 3  3250U,8,0,1000,Windows,AMD Radeon Graphics,14.0,1920 x 1080,2,4,59,11500,0,0,0,2,Low-End
+2023-01-25,1,292,Asus TUF Gaming F15 FX577ZM-HQ067WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,81,40500,4,6,12,4,High-End
+2023-01-25,1,533,Asus E410KA-BV002W Laptop,Asus,Celeron N4500,4,256,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,2,45,13000,1,0,0,1,Low-End
+2023-01-26,1,803,Asus TUF Gaming F15 FX506LHB-HN357W Gaming Laptop,Asus,10th Gen Core i5,8,1000,0,Windows,4 GB NVIDIA GeForce GTX GTX-1650,15.6,1920 x 1080,4,8,61,27500,2,4,10,3,Mid-Range
+2023-01-26,1,130,Asus VivoBook 15 X515EA-EJ522WS Laptop,Asus,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,61,22300,1,0,11,3,Mid-Range
+2023-01-27,1,256,HP 15s-dr3506TU Laptop,HP,11th Gen Core i3,8,256,1000,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,61,15500,1,0,11,2,Low-End
+2023-01-27,1,770,HP Pavilion x360 14-dy0212TU Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel Integrated Iris Xe Graphics,14.0,1366 x 768,4,8,54,16300,1,0,11,2,Low-End
+2023-01-27,1,265,Dell Vostro 5625 laptop,Dell,Ryzen 5-5625U,8,512,0,Windows,AMD Radeon Graphics,16.0,1920 x 1200,6,12,71,17500,0,0,0,3,Mid-Range
+2023-01-27,1,888,Microsoft Surface GO 2 8QC-00021 Laptop,Microsoft,11th Gen Core i5,8,128,0,Windows,Intel Iris Xe Graphics,12.4,1536 x 1024,4,8,55,21300,1,0,11,3,Mid-Range
+2023-01-28,1,676,Acer Spin 3 SP314-55N Laptop,Acer,12th Gen Core i5,16,512,0,Windows,Intel Irix Xe Graphics,14.0,1920 x 1080,10,12,59,21500,0,0,12,3,Mid-Range
+2023-01-28,1,690,MSI Katana GF76 11UE-485IN Laptop,MSI,11th Gen Core i7,16,512,0,Windows,6 GB Nvidia RTX 3060,17.32,1920 x 1080,8,16,72,40500,4,6,11,4,High-End
+2023-01-28,1,684,MSI Thin GF63 11SC-1046IN Gaming Laptop,MSI,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650 Max-Q,15.6,1920 x 1080,6,12,69,27500,2,4,11,3,Mid-Range
+2023-01-29,1,986,Asus Vivobook S14 OLED S3402ZA-KM701WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,14,20,72,27300,1,0,12,4,Mid-Range
+2023-01-29,1,169,Xiaomi Mi Notebook Pro 14 Laptop,Xiaomi,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2560 x 1600,4,8,62,22300,1,0,11,3,Mid-Range
+2023-01-30,1,486,Lenovo Legion 5 Pro 82RF00E1IN Gaming Laptop,Lenovo,12th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,16.0,2560 x 1600,14,20,91,43000,5,8,12,4,High-End
+2023-01-31,1,706,Asus VivoBook Pro 15 OLED K6500ZE-L501WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050Ti,15.6,1920 x 1080,8,12,69,30500,3,4,12,3,Mid-Range
+2023-01-31,1,115,Microsoft Surface Pro 9 QEZ-00065 Laptop,Microsoft,12th Gen Core i5,8,256,0,Windows,Intel Iris Xe Graphics,13.0,2880 x 1920,10,12,51,21300,1,0,12,3,Mid-Range
+2023-01-31,1,894,Acer TravelMate TMP214-53 Business Laptop,Acer,11th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,4,8,65,22300,1,0,11,3,Mid-Range
+2023-02-01,1,227,MSI Katana GF66 12UD-640IN Gaming Laptop,MSI,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,8,12,76,34000,3,4,12,3,Mid-Range
+2023-02-01,1,585,Lenovo IdeaPad Flex 5 81X10087IN Laptop,Lenovo,10th Gen Core i3,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,2,4,65,17300,1,0,10,2,Low-End
+2023-02-02,1,782,Asus Vivobook Pro 15 M3500QC-L901WS Gaming Laptop,Asus,Ryzen 9 5900HX,16,1000,0,Windows,4 GB NVIDIA GeForce RTX RTX 3050,15.6,1920 x 1080,8,16,59,30000,3,4,0,5,Mid-Range
+2023-02-05,1,661,Asus ROG Flow X13 GV301RE-LJ156WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,32,1000,0,Windows,4 GB ‎NVIDIA GeForce RTX 3050 Ti,13.4,1920 x 1200,8,16,81,34000,3,4,0,5,Mid-Range
+2023-02-05,1,788,Fujitsu UH-X FPC02569LK Laptop,Fujitsu,11th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,66,27300,1,0,11,4,Mid-Range
+2023-02-05,1,154,HP Pavilion 15-EC2048AX Gaming Laptop,HP,Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050Ti,15.6,1920 x 1080,6,12,72,30500,3,4,0,3,Mid-Range
+2023-02-06,1,592,Dell XPS 13 Plus Laptop,Dell,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.4,3840 x 2400,12,16,69,22300,1,0,12,3,Mid-Range
+2023-02-07,1,682,MSI Alpha 15 B5EEK-235IN Laptop,MSI,Ryzen 7 5800H ,8,512,0,Windows,8 GB AMD Radeon RX 6600M,15.6,1920 x 1080,8,16,75,42000,3,8,0,4,Mid-Range
+2023-02-07,1,1012,Asus BR1100CKA-GJ0722W Notebook,Asus,Celeron N4500,4,128,0,Windows,Missing,11.6,1366 x 768,2,0,44,13000,0,0,0,1,Low-End
+2023-02-07,1,111,Asus Vivobook Pro 16 OLED K6602HC-N1902WS Gaming Laptop,Asus,11th Gen Core i9,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.0,1200 x 1920,8,16,75,30000,3,4,11,5,Mid-Range
+2023-02-08,1,695,Lenovo V15 G2 82KDA00UIH Laptop,Lenovo,Ryzen 3 5300U,4,512,0,DOS,AMD Radeon Graphic,15.6,1920 x 1080,4,8,53,12500,0,0,0,2,Low-End
+2023-02-08,1,745,Dell Alienware x15 R2 D569941WIN9 Gaming Laptop,Dell,12th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GEFORCE RTX 3070 Ti,15.6,1920 x 1080,8,20,86,45000,5,8,12,4,High-End
+2023-02-09,1,279,Dell Inspiron 7420 D560780WIN9S Laptop,Dell,12th Gen Core i3,8,256,0,Windows,Missing,14.0,1920 x 1200,6,8,65,15500,0,0,12,2,Low-End
+2023-02-09,1,836,Lenovo IdeaPad Gaming 3 82K101EEIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,4,8,63,30500,3,4,11,3,Mid-Range
+2023-02-09,1,646,Lenovo Yoga Slim 7 Pro 82NC00FRIN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,4,8,62,22300,1,0,11,3,Mid-Range
+2023-02-09,1,419,MSI Modern 14 C12M Laptop,MSI,12th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,10,12,59,22300,1,0,12,3,Mid-Range
+2023-02-10,1,593,Acer Nitro 5 AN515-46 Laptop,Acer,AMD Ryzen 5 6600H,16,512,1000,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,2560 x 1440,6,12,76,30500,3,4,0,3,Mid-Range
+2023-02-10,1,131,Asus Vivobook 15 2022 X1502ZA-EZ311WS Touch Laptop,Asus,12th Gen Core i3,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,59,17300,1,0,12,2,Low-End
+2023-02-11,1,485,Dell Inspiron 14 5415 Laptop,Dell,Ryzen 5 5500U,8,512,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,6,12,61,17500,0,0,0,3,Mid-Range
+2023-02-11,1,464,Lenovo IdeaPad Slim 3 82H802XVIN Laptop,Lenovo,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,48,15500,1,0,11,2,Low-End
+2023-02-12,1,987,Asus Zenbook 14X OLED Space Edition UX5401ZAS-KN711WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe,14.0,2880 x 1800,14,20,75,27300,1,0,12,4,Mid-Range
+2023-02-12,1,496,HP Victus 16-e0550AX Gaming Laptop,HP,AMD Ryzen 7 5800H,8,512,0,Windows,4 GB AMD Radeon RX 5500M Graphics,16.0,1920 x 1080,8,16,68,26500,2,4,0,4,Mid-Range
+2023-02-12,1,687,Chuwi HeroBook Pro Laptop,Chuwi,Intel Celeron N4020,8,256,0,Windows,Intel HD Graphics,14.1,1366 x 768,2,2,48,13000,0,0,0,1,Low-End
+2023-02-12,1,694,Lenovo IdeaPad Slim 5 82SF004XIN Laptop,Lenovo,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,67,27300,1,0,12,4,Mid-Range
+2023-02-13,1,617,Asus VivoBook 14 2022 X1402ZA-MW512WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,12,16,67,22300,1,0,12,3,Mid-Range
+2023-02-13,1,181,Chuwi CoreBook X Laptop,Chuwi,12th Gen Core i3,16,512,0,Windows,Intel HD Graphics,14.0,2160 x 1440,6,8,54,16500,0,0,12,2,Low-End
+2023-02-14,1,713,HP Spectre x360 13-ef0052TU OLED Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,13.5,3000 x 2000,10,12,67,22300,1,0,12,3,Mid-Range
+2023-02-14,1,507,HP ProBook 445 G7 Laptop,HP,AMD Ryzen 5 4500U,8,512,0,Windows,AMD Radeon,14.0,1920 x 1080,6,6,68,17500,0,0,0,3,Mid-Range
+2023-02-14,1,797,Acer Aspire 5 NX.K6SSI.002 Laptop,Acer,12th Gen Core i3,8,512,0,Windows,Intel UHD,15.6,1920 x 1080,6,8,49,16500,1,0,12,2,Low-End
+2023-02-14,1,906,Asus TUF Dash F15 2022 FX517ZE-HN036WS Gaming Laptop,Asus,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050-Ti,15.6,1920 x 1080,10,16,68,35500,3,4,12,4,Mid-Range
+2023-02-15,1,942,Asus TUF Gaming F17 FX777ZC-HX069W Gaming Laptop,Asus,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,17.3,1920 x 1080,12,16,68,30500,3,4,12,3,Mid-Range
+2023-02-16,1,376,MSI Pulse GL66 12UGSZOK Gaming Laptop,MSI,12th Gen Core i9,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,15.6,2560 x 1440,14,20,80,43000,5,8,12,5,High-End
+2023-02-17,1,572,Lenovo IdeaPad Gaming 3 15IHU6 82K101EDIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Graphics,15.6,1920 x 1080,4,8,68,30500,3,4,11,3,Mid-Range
+2023-02-17,1,923,Lenovo ThinkPad E14 20TAS16F00 Laptop,Lenovo,11th Gen Core i3,4,256,0,DOS,Intel UHD,14.0,1920 x 1080,2,4,44,15500,1,0,11,2,Low-End
+2023-02-19,1,748,Lenovo IdeaPad Gaming 3 15IAH7 82S900RAIN Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,12,74,30500,3,4,12,3,Mid-Range
+2023-02-19,1,439,Ultimus S152 NU15U2INC44VN-SG Laptop,Ultimus,Celeron N4020,4,256,0,Windows,Intel Integrated UHD Graphics,15.6,1920 x 1080,2,2,50,13000,1,0,0,1,Low-End
+2023-02-19,1,600,HP Omen 16-C0136AX Laptop,HP,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,16.1,1920 x 1080,6,12,72,27500,2,4,0,3,Mid-Range
+2023-02-19,1,422,HP Victus 15-fa0031dx Gaming Laptop,HP,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,8,12,69,27500,2,4,12,3,Mid-Range
+2023-02-20,1,35,Acer Aspire 7 A715-51G NH.QGCSI.001 Gaming Laptop,Acer,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,12,16,74,30500,3,4,12,3,Mid-Range
+2023-02-20,1,941,Asus Vivobook 15 Touch X515EA-EZ501WS Laptop,Asus,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,62,22300,1,0,11,3,Mid-Range
+2023-02-20,1,370,HP Victus 15-fb0777AX Gaming Laptop,HP,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB AMD Radeon RX 6500M Graphics,15.6,1920 x 1080,6,12,68,21500,0,4,0,3,Mid-Range
+2023-02-21,1,121,Asus Chromebook Flip C214MA-BU0704 Laptop,Asus,Celeron N4020,4,0,32,Chrome,Intel Integrated UHD 600,11.6,1366 x 768,2,2,0,13000,1,0,0,1,Low-End
+2023-02-21,1,597,Acer Aspire 5 A515-45-R1YC Laptop,Acer,Ryzen 5 5500U,8,256,0,Windows,AMD Radeon,15.6,1920 x 1080,6,12,59,16500,0,0,0,3,Mid-Range
+2023-02-21,1,542,MSI Creator Pro M16 A12UJS-601IN Gaming Laptop,MSI,12th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GeForce RTX A2000,16.0,2560 x 1600,14,20,91,40500,3,8,12,4,Mid-Range
+2023-02-22,1,828,Asus Vivobook Flip 14 TP3402ZA-LZ501WS Laptop,Asus,12th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1200,12,16,62,22300,1,0,12,3,Mid-Range
+2023-02-22,1,467,Dell Inspiron 3520 D560878WIN9S Laptop,Dell,12th Gen Core i5,8,512,0,Windows,Intel Integrated Integrated,15.6,1920 x 1080,10,12,57,21500,1,0,12,3,Mid-Range
+2023-02-22,1,796,Lenovo IdeaPad Gaming 3 15ACH6 82K201UXIN Laptop,Lenovo,Ryzen 7 5800H,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,76,40500,4,6,0,4,High-End
+2023-02-23,1,172,HP 15s-fq2717TU Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,56,16500,1,0,11,2,Low-End
+2023-02-23,1,10,Asus Vivobook Pro 15 OLED M6500QH-HN701WS Laptop,Asus,Ryzen 7 5800H,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,8,16,68,32500,2,4,0,4,Mid-Range
+2023-02-24,1,718,Acer Nitro AN515-57 Gaming Laptop,Acer,11th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,8,16,73,35500,3,4,11,4,Mid-Range
+2023-02-24,1,806,Asus ROG Flow X13 GV301RE-LJ199WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS ,32,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,13.4,1920 x 1200,8,16,82,35500,3,4,0,4,Mid-Range
+2023-02-24,1,771,Lenovo IdeaPad Slim 3 81X800LAIN Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD Graphics,15.6,1920 x 1080,2,4,45,16500,1,0,11,2,Low-End
+2023-02-25,1,179,Lenovo Yoga 9i 83B1002GIN Laptop,Lenovo,13th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Integrated Graphics,14.0,3840 x 2400,12,16,78,27300,1,0,13,4,Mid-Range
+2023-02-25,1,586,Lenovo ThinkPad E15 20TDS0TA00 Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,4,8,60,21500,1,0,11,3,Mid-Range
+2023-02-25,1,734,Lenovo IdeaPad Gaming 3 15ACH6 82K201Y8IN Laptop,Lenovo,AMD Ryzen 7-5800H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,72,35500,3,4,0,4,Mid-Range
+2023-02-25,1,309,Lenovo IdeaPad 3 81WQ00MQIN Laptop,Lenovo,Celeron N4020,8,256,0,Windows,Intel Integrated UHD,15.6,1366 x 768,2,2,51,13000,1,0,0,1,Low-End
+2023-02-26,1,901,Dell Inspiron 7420 Laptop,Dell,12th Gen Core i5,8,512,0,Windows,2 GB NVIDIA GeForce MX550,14.0,1920 x 1200,10,12,57,21500,2,2,12,3,Mid-Range
+2023-02-26,1,220,Asus TUF Gaming A15 2022 FA506QM-HN008W Gaming Laptop,Asus,AMD Ryzen 7 5800H,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,75,40500,4,6,0,4,High-End
+2023-02-27,1,158,Asus Vivobook 13 Slate OLED T3300KA-LQ122WS Laptop,Asus,Pentium Silver N6000,4,0,128,Windows,Intel UHD Graphics,13.3,1920 x 1080,4,4,51,11500,1,0,0,1,Low-End
+2023-02-28,1,632,Lenovo V14 G2-ITL ﻿82KAA05VIH Laptop,Lenovo,11th Gen Core i3,4,256,0,Windows,Intel Integrated UHD,15.0,1920 x 1080,2,4,50,15500,1,0,11,2,Low-End
+2023-03-01,1,325,Samsung Galaxy Book2 Pro 360 13 Laptop,Samsung,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1080 x 1920,12,16,72,22300,1,0,12,3,Mid-Range
+2023-03-01,1,872,Dell  G15-5525 Laptop,Dell,Ryzen 7 6800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,8,16,78,35500,3,4,0,4,Mid-Range
+2023-03-04,1,953,Lenovo ThinkBook 15 20VEA0YPIH Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated Graphics,15.6,1920 x 1080,2,4,53,16500,1,0,11,2,Low-End
+2023-03-04,1,113,Dell Latitude 3430 Laptop,Dell,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1366 x 768,10,12,59,22300,1,0,12,3,Mid-Range
+2023-03-04,1,261,Lenovo IdeaPad Gaming 3 82K10198IN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,68,27500,2,4,11,3,Mid-Range
+2023-03-04,1,55,HP Victus 15-fb0050AX Gaming Laptop,HP,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,72,30500,3,4,0,3,Mid-Range
+2023-03-05,1,340,Infinix INBook X1 XL12 Laptop,Infinix,10th Gen Core i7,16,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,8,55,26500,1,0,10,4,Mid-Range
+2023-03-05,1,509,Dell Vostro 3425 D552267WIN9S Laptop,Dell,AMD Ryzen 5 5625U,16,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1080,6,12,63,17500,0,0,0,3,Mid-Range
+2023-03-05,1,552,Lenovo Ideapad Flex 5 82R70068IN Laptop,Lenovo,12th Gen Core i5,8,512,0,Windows,Intel UHD,14.0,1920 x 1200,10,12,62,21500,1,0,12,3,Mid-Range
+2023-03-05,1,559,Lenovo IdeaPad Gaming 3 82K201V2IN Laptop,Lenovo,AMD Ryzen 7 5800H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,74,35500,3,4,0,4,Mid-Range
+2023-03-06,1,995,Acer Extensa EX215-31 Laptop,Acer,Intel Pentium N5030,4,256,0,Windows,Intel Integrated UHD 605,15.6,1366 x 768,4,0,49,11500,1,0,0,1,Low-End
+2023-03-07,1,245,HP 15s-ey1508AU Laptop,HP,AMD Ryzen 3 3250U,8,256,0,Windows,AMD Radeon Radeon,15.6,1366 x 768,2,4,55,11500,0,0,0,2,Low-End
+2023-03-07,1,237,Asus ZenBook Pro Duo 14 OLED 2022 UX8402ZE-M711WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,14.5,2880 x 1800,14,20,81,35500,3,4,12,4,Mid-Range
+2023-03-07,1,234,Lenovo IdeaPad Slim 3 81X800LCIN Laptop,Lenovo,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,49,15500,1,0,11,2,Low-End
+2023-03-08,1,151,Dell G15-5511 Gaming Laptop,Dell,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,69,30500,3,4,11,3,Mid-Range
+2023-03-09,1,587,HP 250 G8 6X4B3PA Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel UHD,15.6,1366 x 768,2,4,45,16500,1,0,11,2,Low-End
+2023-03-09,1,271,HP 15s-fq2671TU Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,55,16500,1,0,11,2,Low-End
+2023-03-10,1,737,MSI Vector GP66 12UGSO-623IN Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,15.6,2560 x 1440,14,20,87,43000,5,8,12,4,High-End
+2023-03-11,1,826,Asus Vivobook Flip 14 TP3402ZA-LZ511WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe Graphics,14.0,1920 x 1200,12,16,71,22300,1,0,12,3,Mid-Range
+2023-03-12,1,568,Gigabyte G5 RC45GD Laptop,Gigabyte,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,71,30500,3,4,11,3,Mid-Range
+2023-03-13,1,25,Lenovo E41-55 82FJ00AGIH Laptop,Lenovo,Athlon Gold 3150U,4,256,0,Windows,AMD Radeon RADEON,14.0,1920 x 1080,2,4,41,14000,0,0,0,1,Low-End
+2023-03-13,1,774,HP Pavilion x360 14-ek0088TU Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,62,27300,1,0,12,4,Mid-Range
+2023-03-13,1,379,HP Envy x360 15-ew0047TU 2-in-1 Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris X Graphics,15.6,1920 x 1080,10,12,72,27300,1,0,12,4,Mid-Range
+2023-03-14,1,869,Lenovo IdeaPad Slim 3 82RK0085IN Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,‎Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,57,22300,1,0,12,3,Mid-Range
+2023-03-14,1,696,Lenovo IdeaPad 3 15ITL6 82H802KYIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,56,22300,1,0,11,3,Mid-Range
+2023-03-15,1,540,Lenovo Yoga 6 82UD0069IN Laptop,Lenovo,Ryzen 5 5500U,16,512,0,Windows,AMD Radeon Graphics,13.3,1920 x 1080,6,12,69,17500,0,0,0,3,Mid-Range
+2023-03-15,1,711,HP Spectre x360 16-f1009TX Laptop,HP,12th Gen Core i7,16,1000,0,Windows,4 GB Intel Arc A370M 4GB VRAM Graphics,16.0,3840 x 2400,12,16,74,26500,0,4,12,4,Mid-Range
+2023-03-16,1,579,Dell Vostro 3510 2022 Laptop,Dell,11th Gen Core i3,16,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,54,16500,1,0,11,2,Low-End
+2023-03-17,1,489,Asus E410 Eeebook E410KA-BV003W Laptop,Asus,Celeron N4500,4,256,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,2,45,13000,1,0,0,1,Low-End
+2023-03-17,1,912,Asus ROG Flow Z13 2022 GZ301ZE-LD064WS Gaming Laptop,Asus,12th Gen Core i9,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,13.4,1920 x 1200,14,20,68,34000,3,4,12,5,Mid-Range
+2023-03-18,1,336,HP Pavilion 15-ec2150AX Laptop,HP,Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,68,27500,2,4,0,3,Mid-Range
+2023-03-19,1,332,Dell Inspiron 3511 Laptop,Dell,11th Gen Core i5,8,256,1000,Windows,2 GB NVIDIA MX350,15.6,1920 x 1080,4,8,65,20500,2,2,11,3,Mid-Range
+2023-03-19,1,874,Dell G15-5525 Gaming Laptop,Dell,Ryzen 7 6800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,78,35500,3,4,0,4,Mid-Range
+2023-03-19,1,424,Acer Aspire 5 A515-57 2022 Laptop,Acer,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphic,15.6,1920 x 1080,10,12,66,22300,1,0,12,3,Mid-Range
+2023-03-20,1,650,MSI Katana GF66 12UE-1001IN Gaming Laptop,MSI,12th Gen Core i5,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,12,16,71,38000,4,6,12,3,Mid-Range
+2023-03-20,1,989,Lenovo IdeaPad Slim 3 81X800J1IN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated,15.6,1920 x 1080,4,8,60,21500,1,0,11,3,Mid-Range
+2023-03-21,1,481,Microsoft Surface Laptop 5 ‎RBG-00048 13.5 inch,Microsoft,12th Gen Core i7,8,256,0,Windows,Intel Iris Xe,13.5,2256 x 1504,10,12,57,26300,1,0,12,4,Mid-Range
+2023-03-21,1,186,Acer Aspire 3 A314-35 UN.K0SSI.040 Laptop,Acer, Pentium Silver N6005,4,256,0,Windows,Intel Integrated UHD,14.0,1366 x 768,4,4,50,11500,1,0,0,1,Low-End
+2023-03-21,1,368,Asus Vivobook Pro 16X OLED N7601ZM-MQ711WS Gaming Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,3840 x 2400,10,16,86,40500,4,6,12,4,High-End
+2023-03-22,1,891,Acer TravelMate TMP214-53 Laptop,Acer,11th Gen Core i3,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,2,4,56,17300,1,0,11,2,Low-End
+2023-03-22,1,919,MSI GS76 Stealth 11UE-631IN 9S7-17M111-631 Gaming Laptop,MSI,11th Gen Core i7,16,1000,0,Windows,6 GB Nvidia GeForce RTX 3060,15.6,1920 x 1080,8,16,81,40500,4,6,11,4,High-End
+2023-03-22,1,29,Asus TUF Gaming A17 FA706IHRB-HX041W Gaming Laptop,Asus,AMD Ryzen 5 4600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,17.3,1920 x 1080,6,12,67,27500,2,4,0,3,Mid-Range
+2023-03-23,1,414,Dell Vostro 3525 Laptop,Dell,AMD Ryzen 5-5625U,8,512,0,Windows,AMD Radeon Radeon Graphics,15.6,1920 x 1080,6,12,60,17500,0,0,0,3,Mid-Range
+2023-03-23,1,769,Asus ROG Strix G15 G513QR-HF302WS Gaming Laptop,Asus,Ryzen 7 5800H,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,15.6,1920 x 1080,8,16,81,43000,5,8,0,4,High-End
+2023-03-25,1,511,Dell G15-5525 D560894WIN9S Gaming Laptop,Dell,Ryzen 7 6800H,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,78,40500,4,6,0,4,High-End
+2023-03-25,1,312,Acer Nitro 5 AN515-58 Gaming Laptop,Acer,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,69,30500,3,4,12,3,Mid-Range
+2023-03-25,1,707,Dell Inspiron 7420 D560828WIN9S Laptop,Dell,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1200,10,12,56,22300,1,0,12,3,Mid-Range
+2023-03-26,1,182,Dell Inspiron 15 3520 D560915WIN9S Laptop,Dell,12th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,6,8,59,16500,1,0,12,2,Low-End
+2023-03-27,1,140,Lenovo IdeaPad Slim 1 82R1004AIN Laptop,Lenovo,AMD Ryzen 5 3500U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,4,8,61,17500,0,0,0,3,Mid-Range
+2023-03-27,1,834,Dell Inspiron 3511 D560803WIN9B Laptop,Dell,11th Gen Core i5,8,256,1000,Windows,Intel Integrated UHD,15.6,1920 x 1080,4,8,56,20500,1,0,11,3,Mid-Range
+2023-03-28,1,16,HP 15s-er1501AU Laptop,HP,AMD Ryzen 3 3250U,8,256,0,Windows,AMD Radeon,15.6,1920 x 1080,2,4,57,11500,0,0,0,2,Low-End
+2023-03-28,1,393,Dell Vostro 3425 D552308WIN9B Laptop,Dell,AMD Ryzen 3 5425U,8,256,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,4,8,61,11500,0,0,0,2,Low-End
+2023-03-28,1,95,Asus TUF Gaming F15 FX506LHB-HN355WS Gaming Laptop,Asus,10th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,63,27500,2,4,10,3,Mid-Range
+2023-03-29,1,613,HP Envy x360 13-bf0063TU Laptop,HP,12th Gen Core i7,16,1000,0,Windows,Intel Iris X Graphics,13.3,2880 x 1800,10,12,71,27300,1,0,12,4,Mid-Range
+2023-03-29,1,98,Dell Vostro 3510 Laptop,Dell,11th Gen Core i3,8,256,1000,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,56,15500,1,0,11,2,Low-End
+2023-03-29,1,388,Apple MacBook Air M2 2022 Laptop,Apple,Apple M2,16,512,0,Mac,10-Core GPU,13.6,2560 x 1664,8,0,47,14000,0,0,0,4,Mid-Range
+2023-03-30,1,228,MSI Thin GF63 12HW-004IN Gaming Laptop,MSI,12th Gen Core i5,8,512,0,Windows,Intel Integrated ARC,15.6,1920 x 1080,12,16,60,21500,1,0,12,3,Mid-Range
+2023-03-31,1,937,HP Omen 16-b1350TX Laptop,HP,12th Gen Core i7,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.1,1920 x 1080,14,20,74,35500,3,4,12,4,Mid-Range
+2023-03-31,1,196,Asus Vivobook 16X M1603QA-MB512WS Laptop,Asus,Ryzen 5-5600H,16,512,0,Windows,AMD Radeon Vega 7,16.0,1200 x 1920,6,12,68,23000,1,0,0,3,Mid-Range
+2023-03-31,1,364,Lenovo V15 ITL 82KBA03JIH Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,51,16500,1,0,11,2,Low-End
+2023-04-01,1,492,Acer Swift 3 SF314-43 Laptop,Acer,Ryzen 5 5500U,8,512,0,Windows,AMD Radeon 5500U,14.0,1920 x 1080,6,12,65,17500,0,0,0,3,Mid-Range
+2023-04-01,1,736,Asus VivoBook 15 X515JA-EJ552WS Laptop,Asus,10th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,4,8,59,21500,1,0,10,3,Mid-Range
+2023-04-02,1,757,Acer Aspire 3 A315-58 Laptop,Acer,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,4,8,55,22300,1,0,11,3,Mid-Range
+2023-04-02,1,65,Nokia PureBook S14 NKi511TL165S Laptop,Nokia,11th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.1,1920 x 1080,4,8,62,22300,1,0,11,3,Mid-Range
+2023-04-03,1,141,Acer Aspire 7 A715-75G NH.QGBSI.001 Gaming Laptop,Acer,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,12,16,69,27500,2,4,12,3,Mid-Range
+2023-04-03,1,599,Lenovo Legion 5 Pro 82RG009AIN Laptop,Lenovo,AMD Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,2560 x 1600,8,16,76,40500,4,6,0,4,High-End
+2023-04-04,1,416,Asus ROG Zephyrus G15 GA503RSZ-HQ061WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,15.6,2560 x 1440,8,16,85,43000,5,8,0,5,High-End
+2023-04-04,1,435,Lenovo IdeaPad Slim 3 82RJ0040IN Laptop,Lenovo,12th Gen Core i3,8,512,0,Windows,‎Intel UHD Graphics,14.0,1920 x 1080,6,8,59,16500,1,0,12,2,Low-End
+2023-04-05,1,235,MSI Modern 14 B5M-242IN Laptop,MSI,Ryzen 5 5500U,8,512,0,Windows,AMD Radeon Radeon,14.0,1920 x 1080,6,12,59,17500,0,0,0,3,Mid-Range
+2023-04-05,1,514,Dell Inspiron 7620 Laptop,Dell,12th Gen Core i7,16,512,0,Windows,2 GB NVIDIA GeForce MX550,14.5,2560 x 1440,12,16,62,26500,2,2,12,4,Mid-Range
+2023-04-06,1,512,Dell G15-5525 D560898WIN9S Gaming Laptop,Dell,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3070 Ti,15.6,1920 x 1080,8,16,76,45000,5,6,0,4,High-End
+2023-04-06,1,452,Acer Nitro 5 AN515-45 UN.QCLSI.005 Gaming Laptop,Acer,AMD Ryzen 5 5600H,16,512,1000,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,72,30500,3,4,0,3,Mid-Range
+2023-04-07,1,541,HP 14s-fq0567AU Laptop,HP,AMD Ryzen 3 3250U,8,256,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,2,4,47,11500,0,0,0,2,Low-End
+2023-04-08,1,155,Dell Inspiron 3525 Laptop,Dell,Athlon Silver 3050U,8,256,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,2,2,48,14000,0,0,0,1,Low-End
+2023-04-08,1,244,Asus Vivobook 15 2022 X1502ZA-EJ302WS Laptop,Asus,12th Gen Core i3,8,256,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,51,16300,1,0,12,2,Low-End
+2023-04-08,1,349,Xiaomi Mi Notebook Ultra Laptop,Xiaomi,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,3200 x 2000,4,8,66,22300,1,0,11,3,Mid-Range
+2023-04-09,1,257,HP 14s-fq0568AU Laptop,HP,AMD Athlon 3050U,8,256,0,Windows,AMD Radeon AMD,14.0,1366 x 768,2,2,50,14000,0,0,0,1,Low-End
+2023-04-10,1,862,LG Gram 14 14Z90Q-G.AH75A2 Laptop,LG,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1200 x 1920,12,16,71,27300,1,0,12,4,Mid-Range
+2023-04-10,1,786,Fujitsu UH-X FPC02568LK Laptop,Fujitsu,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,65,22300,1,0,11,3,Mid-Range
+2023-04-11,1,44,Realme Book Slim Laptop,Realme,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1440 x 2160,4,8,61,22300,1,0,11,3,Mid-Range
+2023-04-11,1,841,HP Victus 15-fb0051AX Gaming Laptop,HP,Ryzen 5-5600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,6,12,74,34000,3,4,0,3,Mid-Range
+2023-04-11,1,1015,Lenovo Yoga 6 13ALC6 82ND00DPIN Laptop,Lenovo,Ryzen 7 5700U,16,1000,0,Windows,AMD Radeon AMD,13.3,1920 x 1080,8,16,68,22500,0,0,0,4,Mid-Range
+2023-04-12,1,272,MSI Katana GF66 11UE-861IN Gaming Laptop,MSI,11th Gen Core i7,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,74,40500,4,6,11,4,High-End
+2023-04-12,1,328,HP 14s-fq1089au Laptop,HP,Ryzen 3 5300U,8,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1080,4,8,51,12500,0,0,0,2,Low-End
+2023-04-12,1,705,Xiaomi Notebook Pro 120G Laptop,Xiaomi,12th Gen Core i5,16,512,0,Windows,2 GB Nvidia MX550 Graphics,14.0,2560 x 1600,8,12,73,21500,2,2,12,3,Mid-Range
+2023-04-13,1,212,Lenovo Legion 5 82RB00K8IN Laptop,Lenovo,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1600,14,20,86,40500,4,6,12,4,High-End
+2023-04-13,1,716,HP 255 G8 R3 Laptop,HP,AMD Ryzen 3,8,0,1000,Windows,Missing,15.6,1920 x 1080,4,0,44,13000,0,0,0,2,Low-End
+2023-04-13,1,896,Lenovo IdeaPad Slim 3 81X800LGIN Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,0,0,0,16500,1,0,11,2,Low-End
+2023-04-13,1,239,Lenovo Ideapad Slim 3 82H802KVIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Iris XE Graphic,15.6,1920 x 1080,4,8,59,22300,1,0,11,3,Mid-Range
+2023-04-14,1,966,Asus VivoBook 15 M515DA-BQ332WS Laptop,Asus,Ryzen 3 3250U,8,512,0,Windows,AMD Radeon AMD Radeon,15.6,1920 x 1080,2,4,55,12500,0,0,0,2,Low-End
+2023-04-16,1,741,Asus ZenBook Pro Duo 14 OLED UX8402ZE-LM921WS Laptop,Asus,12th Gen Core i9,32,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,14.5,2880 x 1800,14,20,85,34000,3,4,12,5,Mid-Range
+2023-04-17,1,595,Asus TUF F15 FA507RE-HN043WS 2022 Gaming Laptop,Asus,AMD Ryzen 7 6800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,8,16,79,35500,3,4,0,4,Mid-Range
+2023-04-17,1,698,Asus Vivobook S14 Flip 2022 TN3402QA-LZ501WS Laptop,Asus,AMD Ryzen 5-5600H,16,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1200,6,12,56,21500,0,0,0,3,Mid-Range
+2023-04-17,1,449,Gigabyte G5 GE RC55GE Laptop,Gigabyte,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,12,16,66,30500,3,4,12,3,Mid-Range
+2023-04-20,1,979,Asus Vivobook S15 OLED K3502ZA-L701WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,Intel Iris XE Graphics,15.6,1920 x 1080,14,20,71,27300,1,0,12,4,Mid-Range
+2023-04-20,1,173,Asus VivoBook 15 X515EA-EJ701WS Laptop,Asus,11th Gen Core i7,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,61,27300,1,0,11,4,Mid-Range
+2023-04-21,1,583,Fujitsu UH-X 4ZR1J37876 Laptop,Fujitsu,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,10,12,69,27300,1,0,12,4,Mid-Range
+2023-04-22,1,170,HP 15s-GR0012AU Laptop,HP,AMD Ryzen 3 3250U,8,256,1000,Windows,AMD Radeon Vega 6,15.6,1920 x 1080,2,4,62,13000,1,0,0,2,Low-End
+2023-04-24,1,423,Lenovo Thinkpad P15v 21AAS05L00 Laptop,Lenovo,11th Gen Core i7,16,1000,0,Windows,4 GB Nvidia Quadro T600,15.6,1920 x 1080,8,16,79,26500,0,4,11,4,Mid-Range
+2023-04-24,1,975,Dell Vostro 3405 Laptop,Dell,Ryzen 3-3250U,8,512,0,Windows,AMD Radeon,14.0,1920 x 1080,2,4,53,12500,0,0,0,2,Low-End
+2023-04-24,1,168,Dell Inspiron 5518 Laptop,Dell,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,71,22300,1,0,11,3,Mid-Range
+2023-04-25,1,809,Asus ROG Zephyrus G15 2022 GA503RM-HQ142WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,8,16,84,40500,4,6,0,4,High-End
+2023-04-25,1,683,MSI Creator Pro M16 A12UIS-634IN Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,4 GB NVIDIA GeForce RTX A1000,16.0,2560 x 1660,14,20,80,40500,0,4,12,4,Mid-Range
+2023-04-25,1,639,Avita Pura E NS14A6 Laptop,Avita,10th Gen Core i3,8,256,0,Windows,Intel UHD Graphics 620,14.0,1920 x 1080,2,4,48,15500,1,0,10,2,Low-End
+2023-04-26,1,596,MSI GF63 Thin 10SC-848IN Gaming Laptop,MSI,10th Gen Core i5,8,512,0,Windows,4 GB NVIDIA Geforce GTX 1650,15.6,1920 x 1080,6,12,69,27500,2,4,10,3,Mid-Range
+2023-04-27,1,136,Infinix INBook X1 Neo XL22 Laptop,Infinix, Celeron N5100,8,256,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,0,50,13000,1,0,0,1,Low-End
+2023-04-28,1,529,AGB Octev VR-1818 Gaming Laptop,AGB,11th Gen Core i7,32,1000,0,Windows,2 GB NVIDIA Geforce MX450,15.6,1920 x 1080,4,8,66,26500,2,2,11,4,Mid-Range
+2023-04-28,1,653,Lenovo V14-IGL ‎82C2S02K00 Laptop,Lenovo,Celeron N4020,4,256,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,2,2,49,13000,1,0,0,1,Low-End
+2023-04-29,1,538,Acer Aspire 3 UN.HVTSI.012 Laptop,Acer,AMD Ryzen 3 3250U,8,256,0,Windows,AMD Radeon AMD,15.6,1920 x 1080,2,4,54,11500,0,0,0,2,Low-End
+2023-04-30,1,176,Lenovo V15 82KBA01TIH Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,65,22300,1,0,11,3,Mid-Range
+2023-05-02,1,13,HP 15s-fq5111TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,61,22300,1,0,12,3,Mid-Range
+2023-05-02,1,611,HP Chromebook 14a-na1004TU Laptop,HP,Celeron N4500,4,0,64,Chrome,Intel Integrated UHD Graphics,14.0,1366 x 768,2,2,44,13000,1,0,0,1,Low-End
+2023-05-02,1,767,Asus ROG Zephyrus M16 GU603ZM-K8034WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,6 GB ‎NVIDIA GeForce RTX 3060,16.0,2560 x 1600,14,20,85,40500,4,6,12,4,High-End
+2023-05-02,1,11,Apple MacBook Air 2020 MGND3HN Laptop,Apple,Apple M1,8,256,0,Mac,Apple M1 Integrated Graphics,13.3,2560 x 1600,8,0,47,13000,1,0,0,3,Mid-Range
+2023-05-03,1,250,Lenovo IdeaPad 3 14ITL6 82H701DYIN Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,2,4,50,16500,1,0,11,2,Low-End
+2023-05-03,1,607,Lenovo Legion 5 Pro 82RG00EKIN Laptop,Lenovo,AMD Ryzen 7 6800H,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,16.0,2560 x 1600,8,16,82,43000,5,8,0,4,High-End
+2023-05-03,1,814,Asus ROG Zephyrus G15 2022 GA503RM-HQ111WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,8,16,84,40500,4,6,0,4,High-End
+2023-05-03,1,671,Asus ROG Strix G17 2022 G713RW-KH110WS Gaming Laptop,Asus,AMD Ryzen 9 6900HX,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070 Ti,17.3,1920 x 1080,8,16,76,45000,5,8,0,5,High-End
+2023-05-04,1,928,Infinix INBook X1 Slim Series XL21 Laptop,Infinix,10th Gen Core i7,16,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,8,49,26500,1,0,10,4,Mid-Range
+2023-05-04,1,619,Lenovo Thinkpad E14 Gen 2 20TBS4K300 Laptop,Lenovo,11th Gen Core i5,8,512,0,DOS,Intel UHD,14.1,1920 x 1080,4,8,56,21500,1,0,11,3,Mid-Range
+2023-05-04,1,468,Asus Vivobook 14 OLED UX3402ZA-KN731WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe,14.0,2880 x 1800,12,16,69,27300,1,0,12,4,Mid-Range
+2023-05-06,1,886,HP Victus 16-e1060AX Gaming Laptop,HP,AMD Ryzen 7 6800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,16.1,1920 x 1080,8,16,78,35500,3,4,0,4,Mid-Range
+2023-05-06,1,87,Dell Inspiron 3525 D560789WIN9S Laptop,Dell,AMD Ryzen 5-5625U,8,512,0,Windows,AMD Radeon Radeon Graphics,15.6,1920 x 1080,6,12,68,17500,0,0,0,3,Mid-Range
+2023-05-06,1,266,HP Pavilion 14-eh0024TU Laptop,HP,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,14,20,74,27300,1,0,12,4,Mid-Range
+2023-05-07,1,275,Lenovo IdeaPad Slim 3 82RK006DIN Laptop,Lenovo,12th Gen Core i3,8,512,0,Windows,‎Intel UHD Graphics,15.6,1920 x 1080,6,8,50,16500,1,0,12,2,Low-End
+2023-05-07,1,921,Acer Predator Helios 300 PH315-55 NH.QGPS.003 Gaming Laptop,Acer,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,78,40500,4,6,12,4,High-End
+2023-05-09,1,709,Dell G15-5521 SE D560738WIN9B Laptop,Dell,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,85,40500,4,6,12,4,High-End
+2023-05-09,1,174,HP 245 G8 Laptop,HP,AMD Athlon Silver 3050U,8,0,1000,Windows,AMD Radeon Graphics,14.0,1366 x 768,2,2,47,14000,0,0,0,1,Low-End
+2023-05-11,1,574,Honor MagicBook X15 BohrBR-WAH9F Laptop,Honor,10th Gen Core i5,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,4,8,57,20500,1,0,10,3,Mid-Range
+2023-05-12,1,484,Microsoft Surface Laptop 5 ‎RIP-00048 15 inch,Microsoft,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe,15.0,2496 x 1664,10,12,63,27300,1,0,12,4,Mid-Range
+2023-05-12,1,686,Asus VivoBook 14 X415JA-EK324WS Laptop,Asus,10th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,4,50,16500,1,0,10,2,Low-End
+2023-05-13,1,465,Acer Chromebook Enterprise Spin 513 R841LT-S6DJ Laptop,Acer,Snapdragon 7c,4,0,128,Chrome,Qualcomm Adreno 618,13.3,1920 x 1080,8,0,0,13000,0,0,0,1,Low-End
+2023-05-15,1,107,Lenovo IdeaPad Gaming 3 15IHU6 82K101GSIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,72,27500,2,4,11,3,Mid-Range
+2023-05-15,1,848,Dell Vostro 5620 Laptop,Dell,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe,16.0,1920 x 1080,12,16,60,22300,1,0,12,3,Mid-Range
+2023-05-15,1,187,Asus VivoBook 15 X1500EA-EJ3379WS Laptop,Asus,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,51,16500,1,0,11,2,Low-End
+2023-05-15,1,291,Asus TUF Gaming A15 FA506ICB-HN005W Laptop,Asus,Ryzen 7 4800H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,68,35500,3,4,0,4,Mid-Range
+2023-05-16,1,363,Dell Latitude 5320 2-in-1 Laptop,Dell,11th Gen Core i5,16,256,0,Windows,Intel UHD Graphics,13.3,1920 x 1080,4,8,65,20500,1,0,11,3,Mid-Range
+2023-05-19,1,218,Lenovo V15 82C3001VSP Laptop,Lenovo,Celeron N4020,4,256,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,2,51,13000,1,0,0,1,Low-End
+2023-05-20,1,180,Honor MagicBook X14 Laptop,Honor,11th Gen Core i5,8,512,0,Windows,‎Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,63,22300,1,0,11,3,Mid-Range
+2023-05-20,1,134,Asus TUF Gaming F15,Asus,2022) FX507ZE-HN038W Gaming Laptop ,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050-Ti,15.6,1920 x 1080,14,20,79,30000,3,4,12,4,Low-End
+2023-05-20,1,17,HP Victus 15-fb0040AX Gaming Laptop,HP,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,72,27500,2,4,0,3,Mid-Range
+2023-05-20,1,475,Lenovo Thinkpad E14 Gen 2 20TAS0E800 Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1080 x 1920,4,8,67,22300,1,0,11,3,Mid-Range
+2023-05-21,1,831,Lenovo Legion 5 Pro 82JD005LIN Gaming Laptop,Lenovo,11th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,16.0,2560 x 1440,8,16,75,43000,5,8,11,4,High-End
+2023-05-22,1,188,Lenovo V15 82KBA01KIH Laptop,Lenovo,11th Gen Core i5,8,512,0,DOS,Intel Integrated UHD,15.6,1920 x 1080,4,8,60,21500,1,0,11,3,Mid-Range
+2023-05-23,1,100,HP 14s-fq1092au Laptop,HP,Ryzen 5 5500U,8,512,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,6,12,65,17500,0,0,0,3,Mid-Range
+2023-05-24,1,166,Dell Latitude 5420 Laptop,Dell,11th Gen Core i5,8,256,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,60,21300,1,0,11,3,Mid-Range
+2023-05-24,1,276,HP Victus 16-e0650AX Gaming Laptop,HP,AMD Ryzen 7 5800H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,16.1,1920 x 1080,8,16,74,32500,2,4,0,4,Mid-Range
+2023-05-25,1,354,Lenovo IdeaPad 3 15ITL6 82H8014BIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,61,22300,1,0,11,3,Mid-Range
+2023-05-26,1,553,HP Victus 15-fb0082AX Gaming Laptop,HP,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,72,30500,3,4,0,3,Mid-Range
+2023-05-27,1,60,Asus Vivobook 15 2022 X1502ZA-EJ312WS Laptop,Asus,12th Gen Core i3,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,54,17300,1,0,12,2,Low-End
+2023-05-27,1,1000,Fujitsu UH-X 4ZR1F38027 Laptop,Fujitsu,11th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,69,27300,1,0,11,4,Mid-Range
+2023-05-27,1,801,LG Gram 16Z90Q-G.AJ54A2 Laptop,LG,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,16.0,1600 x 2560,12,16,67,22300,1,0,12,3,Mid-Range
+2023-05-29,1,366,HP Envy x360 15-ew0037TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,10,12,72,22300,1,0,12,3,Mid-Range
+2023-05-29,1,175,HP 15s-eq2146AU Laptop,HP,Ryzen 3 5300U,8,256,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,4,8,59,11500,0,0,0,2,Low-End
+2023-05-30,1,783,Lenovo IdeaPad 3 82RK0064IN Laptop,Lenovo,12th Gen Core i5,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,10,12,60,21500,1,0,12,3,Mid-Range
+2023-05-31,1,394,HP 245 G8 ‎6E3Z1PA Laptop,HP,AMD Ryzen 3 3250U,8,512,0,DOS,AMD Radeon Graphics,14.0,1366 x 768,2,4,53,12500,0,0,0,2,Low-End
+2023-05-31,1,171,HP EliteBook 840 G6,HP,8LX79PA) Laptop ,8,512,0,Windows,Integrated UHD Graphics 620,14.0,1920 x 1080,4,8,57,14000,1,0,0,0,Low-End
+2023-06-01,1,434,Asus Vivobook 14 OLED UX3402ZA-KN531WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe,14.0,2880 x 1800,12,16,69,22300,1,0,12,3,Mid-Range
+2023-06-01,1,273,Lenovo Yoga Slim 7 Pro 82NC00EWIN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,4,8,62,22300,1,0,11,3,Mid-Range
+2023-06-01,1,183,Dell Inspiron 3520 D560866WIN9S Laptop,Dell,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,60,22300,1,0,12,3,Mid-Range
+2023-06-01,1,348,Asus VivoBook 15 X515EA-BQ312TS Laptop,Asus,11th Gen Core i3,8,256,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,59,15500,1,0,11,2,Low-End
+2023-06-02,1,808,Asus ROG Zephyrus G15 2022 GA503RM-LN143WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,8,16,84,40500,4,6,0,4,High-End
+2023-06-02,1,365,Asus VivoBook 15 X1500EA-EJ3381WS Laptop,Asus,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,51,16500,1,0,11,2,Low-End
+2023-06-04,1,861,HP Envy x360 13-ay1062AU Laptop,HP,Ryzen 5 5600U,8,512,0,Windows,AMD Raedon Graphics,13.3,1920 x 1080,6,12,66,17500,0,0,0,3,Mid-Range
+2023-06-05,1,461,HP 240 G8 689T7PA Business Laptop,HP,intel Core i3,8,512,0,Windows,Intel Integrated,14.0,1366 x 768,0,0,50,14000,1,0,0,2,Low-End
+2023-06-05,1,285,HP 255 G8 62Y23PA Laptop,HP,Ryzen 3 3250U,8,512,0,Windows,AMD Radeon Vega 8 Graphics,15.6,1920 x 1080,2,4,56,14000,1,0,0,2,Low-End
+2023-06-05,1,205,Microsoft Surface Laptop 5 13.5 inch,Microsoft,12th Gen Core i5,8,256,0,Windows,Intel Iris Xe,13.5,2256 x 1504,10,12,50,21300,1,0,12,3,Mid-Range
+2023-06-05,1,445,Acer Aspire 5 A515-57 Laptop,Acer,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphic,15.6,1920 x 1080,10,12,63,22300,1,0,12,3,Mid-Range
+2023-06-06,1,790,Lenovo IdeaPad Gaming 3 82K1019AIN Laptop,Lenovo,11th Gen Core i5,8,256,1000,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,4,8,72,30000,3,4,11,3,Mid-Range
+2023-06-06,1,404,HP Envy x360 15-ew0043TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,10,12,65,22300,1,0,12,3,Mid-Range
+2023-06-06,1,667,Lenovo IdeaPad Slim 5 15ITL05 82SE0061IN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,62,22300,1,0,11,3,Mid-Range
+2023-06-07,1,341,Asus Vivobook X415EA-EB372WS Laptop,Asus,11th Gen Core i3,8,256,1000,Windows,Intel UHD Graphics,14.1,1920 x 1080,2,4,54,15500,1,0,11,2,Low-End
+2023-06-08,1,765,HP Victus 15-fa0351TX Laptop,HP,12th Gen Core i7,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,10,16,61,35500,3,4,12,4,Mid-Range
+2023-06-08,1,994,Asus TUF Gaming A15 FA506IC-HN075W Laptop,Asus,Ryzen 7 4800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX3050,15.6,1080 x 1920,8,16,55,35500,0,4,0,4,Mid-Range
+2023-06-08,1,441,Acer Aspire 5 A515-57 NX.K2VSI.002 Laptop,Acer,12th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,6,8,59,16500,1,0,12,2,Low-End
+2023-06-09,1,409,HP Envy x360 13-ay1064AU 2-in-1 Laptop,HP,Ryzen 7 5800U,16,512,0,Windows,AMD Radeon Graphic,13.3,1920 x 1080,8,16,72,22500,0,0,0,4,Mid-Range
+2023-06-10,1,570,MSI Katana GF66 11UE-249IN Gaming Laptop,MSI,11th Gen Core i7,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,74,40500,4,6,11,4,High-End
+2023-06-12,1,90,Lenovo IdeaPad Flex 5 82R9008GIN Laptop,Lenovo,AMD Ryzen 5 5500U,16,512,0,Windows,AMD Radeon,14.0,1920 x 1200,6,12,74,17500,0,0,0,3,Mid-Range
+2023-06-12,1,125,Asus ProArt StudioBook Pro 16 OLED H7600ZM-L701WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,3840 x 2400,14,20,88,40500,4,6,12,4,High-End
+2023-06-13,1,518,Asus TUF Gaming A15 FA506IHRZ-HN112W Laptop,Asus,AMD Ryzen 5 4600H,8,1000,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,68,27500,2,4,0,3,Mid-Range
+2023-06-14,1,913,Asus ROG Flow Z13 2022 GZ301ZC-LD123WS Gaming Laptop,Asus,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,13.4,1920 x 1200,14,20,73,35500,3,4,12,4,Mid-Range
+2023-06-14,1,702,Acer Nitro 5 AN515-45 Gaming Laptop,Acer,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,69,27500,2,4,0,3,Mid-Range
+2023-06-15,1,229,Lenovo IdeaPad Gaming 3 82SA00B2IN Laptop,Lenovo,12th Gen Core i7,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,1920 x 1200,14,20,79,40500,4,6,12,4,High-End
+2023-06-15,1,746,HP Victus 15-fa0353TX Laptop,HP,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,10,16,63,35500,3,4,12,4,Mid-Range
+2023-06-16,1,118,Asus VivoBook 14 2022 X1402ZA-MW511WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,12,16,74,22300,1,0,12,3,Mid-Range
+2023-06-16,1,847,Asus TUF Gaming A17 FA706IC-HX055W Laptop,Asus,Ryzen 7 4800H,8,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050,17.3,1920 x 1080,8,16,74,35500,3,4,0,4,Mid-Range
+2023-06-16,1,637,Asus ROG Flow X16 2022 GV601RM-M5039WS Gaming Laptop,Asus,Ryzen 9 6900HS,16,1000,0,Windows,6 GB AMD Radeon Radeon 680M,16.0,2560 x 1600,8,0,84,43000,1,6,0,5,Mid-Range
+2023-06-17,1,980,Lenovo IdeaPad 3 15IML05 81WB01EBIN Laptop,Lenovo,10th Gen Core i3,8,512,0,Windows,Intel Integrated,15.6,1920 x 1080,2,4,53,16500,1,0,10,2,Low-End
+2023-06-17,1,602,HP Omen 17-ck1022TX Gaming Laptop,HP,12th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,16.1,2560 x 1440,16,24,76,43000,5,8,12,4,High-End
+2023-06-18,1,381,Apple MacBook Pro 16 inch Laptop,Apple,M2 Pro 12-core CPU,16,1000,0,Mac,19-core GPU,16.2,3456 x 2234,12,0,59,12500,0,0,0,4,Mid-Range
+2023-06-19,1,699,Lenovo Legion 5 15ACH6 82JU018YIN Gaming Laptop,Lenovo,Ryzen 7 5800H,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,75,40500,4,6,0,4,High-End
+2023-06-19,1,162,Infinix INBook X1 XL11 Laptop,Infinix,10th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,8,48,21500,1,0,10,3,Mid-Range
+2023-06-19,1,156,Avita Satus Ultimus S111 Laptop,Avita,Celeron N4020,4,128,0,Windows,Intel Integrated UHD Graphics,14.1,1920 x 1080,2,2,47,13000,1,0,0,1,Low-End
+2023-06-20,1,1,HP Pavilion 15-ec2004AX Gaming Laptop,HP,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,66,27500,2,4,0,3,Mid-Range
+2023-06-21,1,142,Lenovo IdeaPad Gaming 3 82K201ULIN Laptop,Lenovo,Ryzen 5 5600H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,75,30500,3,4,0,3,Mid-Range
+2023-06-22,1,996,Fujitsu CH 4ZR1H03553 Laptop,Fujitsu,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,63,22300,1,0,11,3,Mid-Range
+2023-06-22,1,202,Dell Inspiron 5420 Laptop,Dell,12th Gen Core i7,16,512,0,Windows,Intel Integrated Iris,14.0,1920 x 1200,10,12,57,27300,1,0,12,4,Mid-Range
+2023-06-22,1,450,Dell Inspiron 7420 D560918WIN9S Laptop,Dell,12th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,10,12,67,21500,1,0,12,3,Mid-Range
+2023-06-22,1,277,Lenovo V15 82KBA03TIH Laptop,Lenovo,11th Gen Core i3,8,256,1000,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,50,15500,1,0,11,2,Low-End
+2023-06-23,1,71,Samsung Galaxy Book 3 Pro 14 NP940XFG-KC4IN Laptop,Samsung,13th Gen Core i7,16,512,0,Windows,‎Intel Iris Xe Graphics,14.0,2880 x 1800,12,16,72,27300,1,0,13,4,Mid-Range
+2023-06-23,1,905,Asus ZenBook S13 UM5302TA-LX501WS Laptop,Asus,AMD Ryzen 5 6600U,16,512,0,Windows,AMD Radeon AMD,13.3,2880 x 1800,6,12,71,17500,0,0,0,3,Mid-Range
+2023-06-24,1,857,LG Gram 17 17Z90Q-G.AJ55A2 Laptop,LG,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,17.0,1600 x 2560,12,16,69,22300,1,0,12,3,Mid-Range
+2023-06-26,1,270,HP Victus 15-fa0354TX Laptop,HP,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,10,16,63,35500,3,4,12,4,Mid-Range
+2023-06-26,1,561,Lenovo Thinkpad E14 Gen 21E3S05800 Laptop,Lenovo,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,66,27300,1,0,12,4,Mid-Range
+2023-06-26,1,972,Lenovo IdeaPad Gaming 3 81Y401ARIN Gaming Laptop,Lenovo,10th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,67,27500,2,4,10,3,Mid-Range
+2023-06-26,1,999,Asus VivoBook 15 X515JA-BQ521WS Laptop,Asus,10th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,4,8,55,21500,1,0,10,3,Mid-Range
+2023-06-27,1,837,Lenovo ThinkBook 15 20VEA0YNIH Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,63,22300,1,0,11,3,Mid-Range
+2023-06-27,1,950,Lenovo IdeaPad Gaming 3 15IHU6 82K101A3IN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Graphics,15.6,1920 x 1080,4,8,71,30500,3,4,11,3,Mid-Range
+2023-06-28,1,84,Lenovo IdeaPad Gaming 3 82K1017WIN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,71,27500,2,4,11,3,Mid-Range
+2023-06-29,1,304,Asus Vivobook S14 OLED S3402ZA-KM501WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,12,16,63,22300,1,0,12,3,Mid-Range
+2023-06-30,1,658,Asus ROG Flow X13 GV301RC-LJ073WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,32,1000,0,Windows,4 GB ‎NVIDIA GeForce RTX 3050,13.4,1920 x 1200,8,16,81,30000,3,4,0,5,Mid-Range
+2023-06-30,1,952,Asus TUF Gaming A15 FA506IC-HN100W Laptop,Asus,Ryzen 7 4800H,8,1000,0,Windows,4 GB NVIDIA GeForce RTX3050,15.6,1080 x 1920,8,16,62,35500,0,4,0,4,Mid-Range
+2023-06-30,1,314,Lenovo V15-IGL 82C3A008IH Laptop,Lenovo,Celeron N4020,4,256,0,DOS,Intel Integrated UHD,15.6,1920 x 1080,2,2,43,13000,1,0,0,1,Low-End
+2023-06-30,1,302,Asus Strix G15 G513RM-HQ271WS Gaming Laptop,Asus,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,8,16,82,40500,4,6,0,4,High-End
+2023-07-01,1,916,Asus ROG Flow Z13 2022 GZ301ZE-LC192WS Gaming Laptop,Asus,12th Gen Core i9,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,13.4,3840 x 2400,14,20,72,34000,3,4,12,5,Mid-Range
+2023-07-01,1,845,Dell XPS 15 9520 Laptop,Dell,12th Gen Core i7 ,16,512,0,Windows,4 GB NVIDIA Geforce RTX 3050 Ti,15.6,3840 x 2160,14,20,85,35500,3,4,12,4,Mid-Range
+2023-07-01,1,466,Lenovo ThinkPad E14 Gen 2 20TAS08F00 Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel UHD,14.1,1920 x 1080,4,8,61,21500,1,0,11,3,Mid-Range
+2023-07-02,1,865,Asus TUF Gaming A15 FA506ICB-HN075W Laptop,Asus,Ryzen 7 4800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX3050,15.6,1080 x 1920,8,16,68,35500,0,4,0,4,Mid-Range
+2023-07-02,1,232,Chuwi HeroBook Air Laptop,Chuwi,Intel Celeron N4020,4,128,0,Windows,Intel HD Graphics,14.1,1366 x 768,2,2,42,13000,0,0,0,1,Low-End
+2023-07-03,1,881,Asus ROG Strix G17 2022 G713RW-LL111WS Gaming Laptop,Asus,AMD Ryzen 9 6900HX,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070 Ti,17.3,2560 x 1440,8,16,79,45000,5,8,0,5,High-End
+2023-07-03,1,324,Asus Vivobook 15 X515MA-BR101W Laptop,Asus,Pentium Quad Core,4,0,1000,Windows,Intel UHD,15.6,1366 x 768,4,0,48,11500,1,0,0,1,Low-End
+2023-07-04,1,528,Lenovo Thinkpad L14 20X1CTO Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,67,22300,1,0,11,3,Mid-Range
+2023-07-05,1,108,Asus VivoBook 14 X415EA-EK701WS Laptop,Asus,11th Gen Core i7,16,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,8,69,26500,1,0,11,4,Mid-Range
+2023-07-07,1,152,Dell G15-5520 Laptop,Dell,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,14,20,75,35500,3,4,12,4,Mid-Range
+2023-07-07,1,893,Acer Nitro 5 AN515-57 UN.QEHSI.004 Laptop,Acer,11th Gen Core i5,8,256,1000,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,74,26500,2,4,11,3,Mid-Range
+2023-07-08,1,546,HP Omen 16-k0370TX Gaming Laptop,HP,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce 3070Ti,16.1,1920 x 1080,14,20,85,26500,0,8,12,4,Mid-Range
+2023-07-08,1,830,Asus TUF Gaming A17 FA706IC-HX036W Laptop,Asus,Ryzen 7 4800H,8,512,0,Windows,4 GB NVIDIA GeForce RTX RTX 3050,17.3,1920 x 1080,8,16,68,35500,3,4,0,4,Mid-Range
+2023-07-11,1,739,MSI Vector GP66 GP76-12UGSO Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,17.3,1920 x 1080,14,20,86,43000,5,8,12,4,High-End
+2023-07-12,1,854,HP Victus 16-E0301Ax Gaming Laptop,HP,Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,16.1,1920 x 1080,6,12,72,27500,2,4,0,3,Mid-Range
+2023-07-12,1,922,Lenovo ThinkBook 15 21A4A09UIH Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,Windows,AMD Radeon,15.6,1920 x 1080,6,12,66,17500,0,0,0,3,Mid-Range
+2023-07-13,1,133,HP Pavilion 15s-fq5112TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,55,22300,1,0,12,3,Mid-Range
+2023-07-13,1,545,Lenovo ThinkPad E14 21E3S04X00 Laptop,Lenovo,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,66,22300,1,0,12,3,Mid-Range
+2023-07-13,1,858,Asus TUF Gaming F15 FX506HC-HN089WS Gaming Laptop,Asus,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,72,30500,3,4,11,3,Mid-Range
+2023-07-14,1,81,Samsung Galaxy Book 3 Pro 360 NP960QFG-KA1IN Laptop,Samsung,13th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,16.0,2880 x 1800,12,16,81,27300,1,0,13,4,Mid-Range
+2023-07-15,1,159,Asus VivoBook 15 X515EA-EJ322WS Laptop,Asus,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,50,16500,1,0,11,2,Low-End
+2023-07-16,1,816,Asus ROG Zephyrus Duo 16 GX650RMZ-LS019WS Gaming Laptop,Asus, AMD Ryzen 7 6800H,32,2000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,1920 x 1200,8,16,86,40500,4,6,0,4,High-End
+2023-07-16,1,978,Dell Inspiron G15 D560827WIN9G Laptop,Dell,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,67,30500,3,4,11,3,Mid-Range
+2023-07-17,1,844,Dell Vostro 3420 D552299WIN9BE Laptop,Dell,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,14.0,1366 x 768,2,4,47,15500,1,0,11,2,Low-End
+2023-07-17,1,714,Gigabyte Aorus 15 XE4 Gaming Laptop,Gigabyte,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,15.6,2560 x 1440,14,20,82,43000,5,8,12,4,High-End
+2023-07-18,1,544,HP Omen 16-n0051AX Gaming Laptop,HP,AMD Ryzen 9 6900HX,32,1000,0,Windows,8 GB AMD Radeon RX 6650M Graphics,16.1,1920 x 1080,8,16,81,43500,3,8,0,5,Mid-Range
+2023-07-19,1,216,Lenovo Legion 5 Pro 16IAH7H 82RF00DYIN Gaming Laptop,Lenovo,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,2560 x 1600,14,20,84,40500,4,6,12,4,High-End
+2023-07-19,1,400,Dell Vostro 3420 Laptop,Dell,12th Gen Core i5,16,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,10,12,61,21500,1,0,12,3,Mid-Range
+2023-07-20,1,248,Lenovo IdeaPad Slim 3 82KU017EIN Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,Windows,AMD Radeon,15.6,1920 x 1080,6,12,65,17500,0,0,0,3,Mid-Range
+2023-07-21,1,962,HP Envy x360 13-ay1059AU Laptop,HP,Ryzen 5 5600U,8,512,0,Windows,AMD Raedon Graphics,13.3,1920 x 1080,6,12,65,17500,0,0,0,3,Mid-Range
+2023-07-21,1,875,Lenovo ThinkPad P14s 20VXS0G800 Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,Intel Integrated Graphics,14.0,1920 x 1080,4,8,54,26500,1,0,11,4,Mid-Range
+2023-07-22,1,681,MSI Creator M16 A12UD-633IN Laptop,MSI,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,16.0,2560 x 1660,14,20,79,35500,3,4,12,4,Mid-Range
+2023-07-24,1,106,Asus VivoBook 15 K513EP-BQ1093T Laptop,Asus,11th Gen Core i5,8,512,0,Windows,2 GB NVIDIA GeForce MX330,15.6,1920 x 1080,4,8,54,21500,2,2,11,3,Mid-Range
+2023-07-24,1,618,Asus VivoBook 14 2022 X1402ZA-MW311WS Laptop,Asus,12th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,10,12,63,16500,1,0,12,2,Low-End
+2023-07-24,1,42,Lenovo IdeaPad D330 82H0001YIN Laptop,Lenovo,Celeron N4020,4,0,128,Windows,Intel UHD Graphics 600,10.1,1200 x 800,4,2,49,13000,1,0,0,1,Low-End
+2023-07-25,1,251,Dell Latitude 5320 Business Laptop,Dell,11th Gen Core i5,8,512,0,Windows,Intel UHD Graphics,13.3,1920 x 1080,4,8,62,21500,1,0,11,3,Mid-Range
+2023-07-25,1,217,Asus Vivobook Pro 15 OLED M3500QC-L1461WS Gaming Laptop,Asus,AMD Ryzen 5 5600H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,69,30500,3,4,0,3,Mid-Range
+2023-07-25,1,815,Asus ROG Flow X16 2022 GV601RE-M6012WS Gaming Laptop,Asus,Ryzen 7 6800HS,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,16.0,2560 x 1600,8,16,82,43000,3,4,0,4,Mid-Range
+2023-07-26,1,296,Asus Vivobook S15 OLED S3502ZA-L502WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris XE Graphics,15.6,1920 x 1080,12,16,65,22300,1,0,12,3,Mid-Range
+2023-07-26,1,161,HP Pavilion 15-EC2146AX Gaming Laptop,HP,Ryzen 7 5800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,72,35500,3,4,0,4,Mid-Range
+2023-07-26,1,34,Acer One 14 Z2-493 Laptop,Acer,AMD Ryzen 3 3250U,4,256,0,Windows,AMD Radeon Radeon Graphics,14.0,1366 x 768,2,4,50,11500,0,0,0,2,Low-End
+2023-07-28,1,877,HP Spectre x360 13-ef0053TU Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris X Graphics,13.5,3000 x 2000,10,12,74,27300,1,0,12,4,Mid-Range
+2023-07-29,1,615,Lenovo V14-IIL 82C4019YIH Laptop,Lenovo,10th Gen Core i5,4,256,0,Windows,Intel Integrated UHD,14.0,1366 x 768,4,8,47,20500,1,0,10,3,Low-End
+2023-07-31,1,576,HP ProBook 450 G8 4Y7G3PA Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1366 x 768,2,4,61,15500,1,0,11,2,Low-End
+2023-08-01,1,110,HP 247 G8 600A9PA Laptop,HP,AMD Ryzen 3 5300U,8,512,0,Windows,AMD Radeon Graphics,14.0,1366 x 768,4,8,61,12500,0,0,0,2,Low-End
+2023-08-03,1,231,MSI Pulse GL66 12UEK-898IN Gaming Laptop,MSI,12th Gen Core i9,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,75,38000,4,6,12,5,High-End
+2023-08-03,1,604,HP Envy x360 16-h0028TX Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris X Graphics,13.3,3840 x 2400,10,12,69,27300,1,0,12,4,Mid-Range
+2023-08-04,1,638,Lenovo V14 Gen 2 82KAA002IH Laptop,Lenovo,11th Gen Core i5,8,512,0,DOS,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,51,22300,1,0,11,3,Mid-Range
+2023-08-07,1,764,Asus ROG Strix G15 G513RM-HF328WS Gaming Laptop,Asus,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,80,40500,4,6,0,4,High-End
+2023-08-07,1,286,Asus Vivobook 16X 2022 M1603QA-MB711WS Laptop,Asus,Ryzen 7-5800H,16,512,0,Windows,AMD Radeon Vega 7,16.0,1920 x 1200,8,16,72,28000,1,0,0,4,Mid-Range
+2023-08-07,1,505,Acer Chromebook 311 C733 Laptop,Acer,Intel Celeron N4020,4,0,32,Chrome,Intel HD,11.6,1366 x 768,2,2,0,13000,0,0,0,1,Low-End
+2023-08-08,1,448,Gigabyte G5 ME RC55ME Laptop,Gigabyte,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 TI,15.6,1920 x 1080,12,16,68,34000,3,4,12,3,Mid-Range
+2023-08-09,1,405,Dell G15-5520 Gaming Laptop,Dell,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,12,16,75,30500,3,4,12,3,Mid-Range
+2023-08-10,1,395,MSI Modern 14 C12M-269IN Laptop,MSI,12th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,6,8,61,16500,1,0,12,2,Low-End
+2023-08-10,1,879,MSI Katana GF66 12UD-472IN Gaming Laptop,MSI,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,12,16,69,34000,3,4,12,3,Mid-Range
+2023-08-11,1,855,HP 15s-fq2673TU Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,59,16500,1,0,11,2,Low-End
+2023-08-12,1,932,Lenovo ThinkBook 15 20VEA0YQIH Laptop,Lenovo,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,54,15500,1,0,11,2,Low-End
+2023-08-13,1,494,Dell XPS 9315 Laptop,Dell,12th Gen Core i7 ,16,1000,0,Windows,Iris Xe,13.4,1920 x 1080,10,12,53,27300,1,0,12,4,Mid-Range
+2023-08-14,1,79,Samsung Galaxy Book 3 Pro 360 NP960QFG-KA2IN Laptop,Samsung,13th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,16.0,2880 x 1800,12,16,75,22300,1,0,13,3,Mid-Range
+2023-08-14,1,674,Lenovo V15 Gen 2 Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.0,1920 x 1080,2,4,54,16500,1,0,11,2,Low-End
+2023-08-15,1,842,HP Pavilion 14s- fy1003AU Laptop,HP,Ryzen 5 5500U,16,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1080,6,12,61,17500,0,0,0,3,Mid-Range
+2023-08-15,1,761,Asus TUF Gaming A17 FA706IHR-HX031W Gaming Laptop,Asus,AMD Ryzen 5 4600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,17.3,1920 x 1080,6,12,71,27500,2,4,0,3,Mid-Range
+2023-08-16,1,678,Lenovo ThinkPad T14 20W0S1C800 Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,67,27300,1,0,11,4,Mid-Range
+2023-08-17,1,491,Lenovo Thinkbook 14 20VD011EIH Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,61,27300,1,0,11,4,Mid-Range
+2023-08-17,1,427,HP 240 G8 4K5D5PA Business Laptop,HP,11th Gen Core i3,8,512,0,DOS,Intel Integrated,14.0,1366 x 768,2,4,44,16500,1,0,11,2,Low-End
+2023-08-18,1,700,Asus EeeBook E410KA-BV101WS Laptop,Asus,Pentium N6000,8,256,0,Windows,Intel Integrated UHD,14.1,1366 x 768,4,4,48,11500,1,0,0,1,Low-End
+2023-08-19,1,903,Lenovo Thinkpad E14 Gen 2 20TAS14C00 Laptop,Lenovo,11th Gen Core i3,8,512,0,DOS,Intel UHD,14.0,1920 x 1080,2,4,49,16500,1,0,11,2,Low-End
+2023-08-20,1,670,Lenovo V14 G2-ITL 82KA00G8IH Laptop,Lenovo,11th Gen Core i3,4,256,0,DOS,Intel Integrated UHD,14.0,1920 x 1080,2,4,0,15500,1,0,11,2,Low-End
+2023-08-20,1,787,Fujitsu CH FPC02548LK Laptop,Fujitsu,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,62,22300,1,0,11,3,Mid-Range
+2023-08-21,1,74,Samsung Galaxy Book 3 360 15 NP750QFG-KA2IN Laptop,Samsung,13th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,12,16,71,22300,1,0,13,3,Mid-Range
+2023-08-21,1,610,Lenovo Yoga 6 82UD0068IN 2-in-1 Laptop,Lenovo,Ryzen 7 5700U,16,512,0,Windows,AMD Radeon,13.3,1920 x 1080,8,16,63,22500,0,0,0,4,Mid-Range
+2023-08-21,1,3,Asus Vivobook 16X 2022 M1603QA-MB502WS Laptop,Asus,Ryzen 5-5600H,8,512,0,Windows,AMD Radeon Vega 7,16.0,1200 x 1920,6,12,66,23000,1,0,0,3,Mid-Range
+2023-08-22,1,470,Dell Inspiron 3525 D560863WIN9B Laptop,Dell,AMD Ryzen 5 5625U,8,512,0,Windows,AMD Radeon Radeon,15.6,1920 x 1080,6,12,62,17500,0,0,0,3,Mid-Range
+2023-08-24,1,883,Dell Inspiron 7420 2-in-1 Touch Laptop,Dell,12th Gen Core i3,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1200,6,8,65,17300,1,0,12,2,Low-End
+2023-08-24,1,768,Asus TUF Gaming F15 FX506HC-HN119W Gaming Laptop,Asus,11th Gen Core i5,8,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,66,30500,3,4,11,3,Mid-Range
+2023-08-26,1,225,Lenovo IdeaPad Gaming 3 82K1019BIN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,4,8,71,30500,3,4,11,3,Mid-Range
+2023-08-27,1,230,Lenovo IdeaPad Slim 5 82LN00JSIN Laptop,Lenovo,Ryzen 7 5700U,16,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,8,16,68,22500,0,0,0,4,Mid-Range
+2023-08-27,1,992,Lenovo ThinkBook 14 20VDA0TLIH Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,65,22300,1,0,11,3,Mid-Range
+2023-08-28,1,269,Dell Alienware x14 Gaming Laptop,Dell,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GEFORCE RTX 3050 Ti,15.6,1920 x 1080,14,20,76,35500,3,4,12,4,Mid-Range
+2023-08-29,1,338,HP 14s-dy2506TU Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,4,8,50,15500,1,0,11,2,Low-End
+2023-08-29,1,139,Acer Aspire 5 A515-57G Gaming Laptop,Acer,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 2050,15.6,1920 x 1080,12,16,67,35500,0,4,12,3,Mid-Range
+2023-08-30,1,360,Dell Inspiron 3593 Laptop,Dell,10th Gen Core i3,4,0,1000,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,55,15500,1,0,10,2,Low-End
+2023-08-31,1,549,Lenovo Thinkbook 15 21DJA04LIH Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,Iris Xe Graphics,15.6,1920 x 1080,10,12,60,22300,1,0,12,3,Mid-Range
+2023-09-01,1,578,Lenovo ThinkBook 14 20VDA0QTIH Laptop,Lenovo,11th Gen Core i5,8,512,0,DOS,Intel UHD Graphics,14.0,1920 x 1080,4,8,55,21500,1,0,11,3,Mid-Range
+2023-09-03,1,738,Acer Aspire 3 A314-35 UN.K0SSI.030 Laptop,Acer, Pentium Silver N6000,4,256,0,Windows,Intel Integrated UHD Graphics,14.0,1366 x 768,4,4,47,11500,1,0,0,1,Low-End
+2023-09-04,1,904,Asus ZenBook S13 UM5302TA-LX701WS Laptop,Asus,AMD Ryzen 7 6800U,16,1000,0,Windows,AMD Radeon AMD,13.3,2880 x 1800,8,16,73,22500,0,0,0,4,Mid-Range
+2023-09-05,1,77,Samsung Galaxy Book 3 360 13 NP730QFG-KA3IN Laptop,Samsung,13th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,10,12,69,27300,1,0,13,4,Mid-Range
+2023-09-06,1,295,Asus TUF Gaming F15 FA506IHRB-HN079W Gaming Laptop,Asus,AMD Ryzen 5 4600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,72,27500,2,4,0,3,Mid-Range
+2023-09-07,1,390,Samsung Galaxy Book2 NP550XED-KA2IN Laptop,Samsung,12th Gen Core i5,16,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,8,12,59,21500,1,0,12,3,Mid-Range
+2023-09-07,1,833,MSI GF75 Thin 10SC-611IN Laptop,MSI,10th Gen Core i5,8,256,1000,Windows,4 GB Nvidia GTX1650 MaxQ,15.6,1920 x 1080,6,12,66,26500,2,4,10,3,Mid-Range
+2023-09-08,1,479,Lenovo V15 82KBA02UIH Laptop,Lenovo,11th Gen Core i3,8,256,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,53,15500,1,0,11,2,Low-End
+2023-09-08,1,643,Lenovo Ideapad Slim 3i 82H802EYIN Laptop,Lenovo,11th Gen Core i3,8,256,0,Windows,Intel UHD Integrated Graphics,15.6,1920 x 1080,2,4,54,15500,1,0,11,2,Low-End
+2023-09-10,1,417,MSI Modern 15 B12M Laptop,MSI,12th Gen Core i7,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,10,12,62,27300,1,0,12,4,Mid-Range
+2023-09-10,1,627,Lenovo ThinkPad T14 2021 20W0S03F00 Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,512 MB Intel Integrated,14.0,1920 x 1080,4,8,66,21500,1,0,11,3,Mid-Range
+2023-09-11,1,57,Acer Aspire 5 A515-57G UN.K9TSI.002 Gaming Laptop,Acer,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 2050,15.6,1920 x 1080,12,16,69,35500,0,4,12,3,Mid-Range
+2023-09-12,1,973,Lenovo IdeaPad Flex 5 82HU00PPIN Laptop,Lenovo,Ryzen 5 5500U,8,512,0,Windows,AMD Radeon,14.0,1920 x 1080,6,12,62,17500,0,0,0,3,Mid-Range
+2023-09-15,1,222,Asus VivoBook 14 2022 X1402ZA-EK391WS Laptop,Asus,12th Gen Core i3,8,256,0,Windows,Intel Integrated Iris Xe Graphics,14.0,1920 x 1080,10,12,60,16300,1,0,12,2,Low-End
+2023-09-17,1,69,Samsung Galaxy Book2 NP550XED-KA1IN 15 Laptop,Samsung,12th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,10,12,60,21500,1,0,12,3,Mid-Range
+2023-09-18,1,386,HP Pavilion Plus 14-eh0037TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,2880 x 1800,12,16,71,22300,1,0,12,3,Mid-Range
+2023-09-19,1,474,MSI Modern 15 A5M-055IN Laptop,MSI,Ryzen 5 5500U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,6,12,57,17500,0,0,0,3,Mid-Range
+2023-09-20,1,267,Dell XPS 13 Plus 9320 Laptop,Dell,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,13.4,3840 x 2400,12,16,71,27300,1,0,12,4,Mid-Range
+2023-09-21,1,396,Dell Inspiron 5420 ICC-C782537WIN8 Laptop,Dell,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,12,16,68,22300,1,0,12,3,Mid-Range
+2023-09-24,1,344,Apple MacBook Pro 16 inch MK1A3HN Laptop,Apple,M1 Max 10-core CPU,32,1000,0,Mac,32-core GPU,16.2,3456 x 2234,10,0,61,12500,0,0,0,3,Mid-Range
+2023-09-25,1,755,Dell Inspiron 5410 ICC-C782512WIN8 Laptop,Dell,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,4,8,69,22300,1,0,11,3,Mid-Range
+2023-09-27,1,567,Gigabyte G5 RC45MD Laptop,Gigabyte,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,6,12,71,34000,3,4,11,3,Mid-Range
+2023-09-28,1,959,Asus ROG Strix G17 G713RM-LL167WS Gaming Laptop,Asus,AMD Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,17.3,2560 x 1440,8,16,69,40500,4,6,0,4,High-End
+2023-09-29,1,754,Asus ROG Strix G15 2022 G513RS-HQ024WS Gaming Laptop,Asus,AMD Ryzen 9 6900HX,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3080,15.6,2560 x 1440,8,16,82,43000,5,8,0,5,High-End
+2023-09-30,1,1006,Asus TUF A15 OLED FA507RM-HF030WS Laptop,Asus,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,69,40500,4,6,0,4,High-End
+2023-10-02,1,451,Lenovo ThinkPad X13 21BNS03K00 Laptop,Lenovo,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1200,12,16,71,27300,1,0,12,4,Mid-Range
+2023-10-02,1,327,Apple MacBook Air 2020 Z124J002KD Laptop,Apple,Apple M1,16,512,0,Mac,Apple M1 Integrated Graphics,13.3,2560 x 1600,8,0,53,14000,1,0,0,3,Mid-Range
+2023-10-03,1,612,Lenovo V14 G2-ITL 82KAA025IH Laptop,Lenovo,11th Gen Core i3,8,0,1000,Windows,Intel Integrated UHD,14.0,1920 x 1080,2,4,57,15500,1,0,11,2,Low-End
+2023-10-08,1,440,Lenovo Legion S7 82TF007LIN Gaming Laptop,Lenovo,12th Gen Core i7,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,16.0,2560 x 1600,14,20,84,35500,3,4,12,4,Mid-Range
+2023-10-09,1,573,Dell Latitude 3520 Laptop,Dell,11th Gen Core i3,8,256,0,Ubuntu,Intel UHD Graphics,15.6,1366 x 768,2,4,42,15500,1,0,11,2,Low-End
+2023-10-10,1,673,MSI Crosshair 15 B12UEZ-897IN Gaming Laptop,MSI,12th Gen Core i7,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,76,40500,4,6,12,4,High-End
+2023-10-11,1,666,Lenovo 15ACH6 82JW00P5IN Laptop,Lenovo,Ryzen 5 5600H,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1200,6,12,71,27500,2,4,0,3,Mid-Range
+2023-10-12,1,772,Lenovo Thinkpad P15s 20W7S1H800 Laptop,Lenovo,11th Gen Core i7,32,1000,0,Windows,4 GB  Nvidia Quadro T500,15.6,1920 x 1080,4,8,76,26500,0,4,11,4,Mid-Range
+2023-10-13,1,191,Lenovo E41-55 82FJ00BLIH Laptop,Lenovo,Athlon 3050U,4,256,0,Windows,AMD Radeon AMD,14.0,1366 x 768,2,2,51,14000,0,0,0,1,Low-End
+2023-10-13,1,672,MSI Crosshair 15 B12UGZ-1012IN Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,15.6,2560 x 1440,14,20,81,43000,5,8,12,4,High-End
+2023-10-15,1,864,LG Gram 16Z90Q-G.AH75A2 Laptop,LG,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,16.0,1600 x 2560,12,16,72,27300,1,0,12,4,Mid-Range
+2023-10-15,1,743,Dell Inspiron 3525 D560831WIN9SE Laptop,Dell,AMD Ryzen 3 3250U,8,256,0,Windows,AMD Radeon AMD,15.6,1920 x 1080,2,4,59,11500,0,0,0,2,Low-End
+2023-10-16,1,885,HP Victus 16-e1062AX Gaming Laptop,HP,AMD Ryzen 5 6600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.1,1920 x 1080,6,12,67,30500,3,4,0,3,Mid-Range
+2023-10-16,1,752,Acer Aspire 3 A315-23 UN.HVTSI.010 Laptop,Acer,AMD Ryzen 3 3250U,8,512,0,Windows,AMD Radeon AMD,15.6,1920 x 1080,2,4,56,12500,0,0,0,2,Low-End
+2023-10-18,1,459,HP Pavilion 14-ek0084TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,10,12,60,22300,1,0,12,3,Mid-Range
+2023-10-19,1,822,HP Pavilion x360 14-ek0092TU Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,61,27300,1,0,12,4,Mid-Range
+2023-10-19,1,791,HP Spectre X360 16-f1003TU Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris X Graphics,16.0,3072 x 1920,14,20,76,27300,1,0,12,4,Mid-Range
+2023-10-20,1,935,Dell Vostro 3515 Laptop,Dell,Ryzen 3 3250U,8,256,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,2,4,54,11500,0,0,0,2,Low-End
+2023-10-20,1,53,Asus Vivobook Pro 15 OLED M6500IH-HN701WS Laptop,Asus,Ryzen 7-4800H,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650 Max Q,15.6,1920 x 1080,8,16,69,32500,2,4,0,4,Mid-Range
+2023-10-21,1,1014,Asus BR1100CKA-GJ0722W Laptop,Asus,Celeron N4500,4,128,0,Windows,Intel UHD Graphics,11.6,1366 x 768,2,0,45,13000,1,0,0,1,Low-End
+2023-10-22,1,224,Lenovo V15 G2-ITL Business Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,4,8,56,21500,1,0,11,3,Mid-Range
+2023-10-23,1,436,Ultimus S151 NU14U2INC43VN-CS Laptop,Ultimus,Celeron N4020,4,128,0,Windows,Intel Integrated UHD Graphics,14.1,1920 x 1080,2,2,48,13000,1,0,0,1,Low-End
+2023-10-25,1,749,Lenovo IdeaPad Gaming 3 82K201YCIN Laptop,Lenovo,AMD Ryzen 5-5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,71,27500,2,4,0,3,Mid-Range
+2023-10-26,1,794,HP Pavilion 14-eh0025TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2240 x 1400,12,16,65,22300,1,0,12,3,Mid-Range
+2023-10-26,1,236,HP Envy x360 13-bf0059TU Laptop,HP,12th Gen Core i7,16,512,0,Windows,Intel Iris X Graphics,13.3,2880 x 1800,10,12,68,27300,1,0,12,4,Mid-Range
+2023-10-27,1,1005,HP Pavilion 14-EC1019AU Laptop,HP,Ryzen 5 5625U,16,512,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,6,12,60,17500,0,0,0,3,Mid-Range
+2023-10-28,1,548,HP Omen 16-k0360TX Laptop,HP,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.1,1920 x 1080,14,20,82,40500,4,6,12,4,High-End
+2023-10-29,1,75,Lenovo V15 ‎82C70005UK Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,6,12,60,17500,0,0,0,3,Mid-Range
+2023-10-29,1,20,Apple MacBook Air 2022 Laptop,Apple,Apple M2,8,256,0,Mac,8-Core GPU,13.6,2560 x 1664,8,0,48,13000,0,0,0,4,Mid-Range
+2023-10-29,1,149,HP Pavilion 14-dv2015TU Laptop,HP,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,65,27300,1,0,12,4,Mid-Range
+2023-10-30,1,804,Asus ROG Flow X13 GV301RC-LJ022WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS ,16,1000,0,Windows,AMD Radeon AMD,13.4,1920 x 1200,8,16,75,26500,0,0,0,4,Mid-Range
+2023-10-31,1,759,LG Gram 14 14Z90Q-G.AJ56A2 Laptop,LG,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1200 x 1920,12,16,68,22300,1,0,12,3,Mid-Range
+2023-10-31,1,832,Asus VivoBook Ultra 14,Asus,2022) X413EA-EB322WS Laptop ,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,2,4,55,14000,1,0,0,0,Low-End
+2023-11-01,1,51,HP Pavilion x360 14-ek0074TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,10,12,68,22300,1,0,12,3,Mid-Range
+2023-11-02,1,408,HP Envy x360 13-bf0121TU  Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,13.4,1920 x 1200,10,12,72,22300,1,0,12,3,Mid-Range
+2023-11-04,1,601,HP Envy x360 13-bf0058TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris X Graphics,13.3,2880 x 1800,10,12,67,22300,1,0,12,3,Mid-Range
+2023-11-06,1,442,MSI Stealth GS66 12UGS-290IN Gaming Laptop,MSI,12th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,15.6,2560 x 1440,14,20,96,43000,5,8,12,4,High-End
+2023-11-06,1,1013,Fujitsu UH-X 4ZR1F38024 Laptop,Fujitsu,11th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1080,4,8,63,27300,1,0,11,4,Mid-Range
+2023-11-07,1,645,Dell Vostro 3400 Laptop AMD,Dell,Ryzen 5 3450U,8,256,0,Windows,AMD Radeon,14.0,1920 x 1080,4,0,56,16500,0,0,0,3,Mid-Range
+2023-11-08,1,805,Asus ROG Zephyrus G14 2022 GA402RK-L8148WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,32,1000,0,Windows,8 GB AMD Radeon RX 6800S,14.0,2560 x 1600,8,16,87,43000,5,8,0,5,High-End
+2023-11-08,1,24,Lenovo V15 82KDA00XIH Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,6,12,55,17500,0,0,0,3,Mid-Range
+2023-11-09,1,123,Acer Predator Helios 300 PH315-55 Gaming Laptop,Acer,12th Gen Core i9,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,76,38000,4,6,12,5,High-End
+2023-11-09,1,146,HP Pavilion 14-dv2041TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,62,22300,1,0,12,3,Mid-Range
+2023-11-10,1,763,Lenovo Thinkbook 14 Gen 2 20VD011CIH Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,51,22300,1,0,11,3,Mid-Range
+2023-11-12,1,112,Acer Swift 3 OLED SF314-71 NX.KAVSI.001 Laptop,Acer,12th Gen Core i7,16,1000,0,Windows,Intel Integrated Iris Xe,14.0,2880 x 1800,14,20,69,27300,1,0,12,4,Mid-Range
+2023-11-14,1,967,Dell Inspiron 15 3511 Laptop,Dell,11th Gen Core i5,8,512,0,Windows,Intel Integrated UHD Graphics,15.6,1920 x 1080,4,8,54,21500,1,0,11,3,Mid-Range
+2023-11-14,1,936,Asus Strix G15 G513RM-HF274WS Gaming Laptop,Asus,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,75,40500,4,6,0,4,High-End
+2023-11-14,1,591,Acer Predator Helios 300 PH315-55s Spatial Labs Edition Gaming Laptop,Acer,12th Gen Core i9,32,2000,0,Windows,NVIDIA GeForce RTX 3030,15.6,3840 x 2160,14,20,84,30500,0,0,12,5,Mid-Range
+2023-11-15,1,792,HP Pavilion 14-eh0021TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2240 x 1400,12,16,66,22300,1,0,12,3,Mid-Range
+2023-11-17,1,876,MSI GP66 Leopard 11UG-693IN Gaming Laptop,MSI,11th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,15.6,2560 x 1440,8,16,79,43000,5,8,11,4,High-End
+2023-11-17,1,345,Lenovo V15 82C30052IH Laptop,Lenovo,Intel Celeron N4020,4,0,1000,DOS,Intel Integrated UHD,15.6,1920 x 1080,2,2,43,13000,1,0,0,1,Low-End
+2023-11-18,1,30,HP Pavilion 15-eg2009TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,12,16,62,22300,1,0,12,3,Mid-Range
+2023-11-19,1,480,Lenovo Thinkpad P15v 21D8S00V00 Laptop,Lenovo,12th Gen Core i7,32,1000,0,Windows,4 GB Nvidia Quadro T1200,15.6,1920 x 1080,14,20,76,26500,0,4,12,4,Mid-Range
+2023-11-19,1,589,HP Elitebook 840 G8 4S1H5PA Laptop,HP,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe,14.0,1920 x 1080,4,8,65,22300,1,0,11,3,Mid-Range
+2023-11-20,1,590,HP Pavilion x360 14-ek0072TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,10,12,67,22300,1,0,12,3,Mid-Range
+2023-11-21,1,73,Samsung Galaxy Book 3 Pro 14 NP940XFG-KC1IN Laptop,Samsung,13th Gen Core i5,16,512,0,Windows,‎Intel Iris Xe Graphics,14.0,2880 x 1800,12,16,71,22300,1,0,13,3,Mid-Range
+2023-11-22,1,41,Asus Vivobook S15 OLED K3502ZA-L501WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris XE Graphics,15.6,1920 x 1080,12,16,65,22300,1,0,12,3,Mid-Range
+2023-11-22,1,628,Huawei MateBook D14 Laptop,Huawei,10th Gen Core i5,8,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,62,21500,1,0,10,3,Mid-Range
+2023-11-25,1,951,HP Victus 16-d0354TX Laptop,HP,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.1,1920 x 1080,6,12,71,30500,3,4,11,3,Mid-Range
+2023-11-25,1,934,Asus VivoBook 15 X512DA-BQ303WS Laptop,Asus,Ryzen 3 3250U,8,256,0,Windows,AMD Radeon AMD Radeon,15.6,1920 x 1080,2,4,48,11500,0,0,0,2,Low-End
+2023-11-26,1,825,Asus Zenbook Flip 14 OLED UP5401ZA-KN701WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,Intel Integrated Iris Xe,14.0,2880 x 1800,14,20,75,27300,1,0,12,4,Mid-Range
+2023-11-27,1,334,Dell Latitude 7410 Laptop,Dell,10th Gen Core i5,8,256,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,60,20500,1,0,10,3,Mid-Range
+2023-11-29,1,482,Microsoft Surface Pro 9 ‎QIL-00031 Laptop,Microsoft,12th Gen Core i7,16,256,0,Windows,Intel Iris Xe Graphics,13.0,2880 x 1920,10,12,56,26300,1,0,12,4,Mid-Range
+2023-11-30,1,184,Lenovo V15 82KDA00YIH Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,DOS,AMD Radeon Graphics,15.6,1920 x 1080,6,12,56,17500,0,0,0,3,Mid-Range
+2023-12-01,1,437,HP Pavilion 14-dv2014TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Integrated UHD Graphics,14.0,1920 x 1080,10,12,65,21500,1,0,12,3,Mid-Range
+2023-12-01,1,150,Asus Vivobook 15 2022 X1502ZA-BQ502WS Laptop,Asus,12th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,12,16,63,22300,1,0,12,3,Mid-Range
+2023-12-02,1,641,Lenovo Thinkpad T15P Gen 2 ‎21A7001LUS Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,14.0,1920 x 1080,8,16,69,32500,2,4,11,4,Mid-Range
+2023-12-02,1,137,Asus TUF Dash F15 2022 FX517ZC-HN083WS Gaming Laptop,Asus,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1080 x 1920,8,12,67,30500,3,4,12,3,Mid-Range
+2023-12-02,1,430,MSI Katana GF66 12UC-632IN Gaming Laptop,MSI,12th Gen Core i7,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,14,20,73,35500,3,4,12,4,Mid-Range
+2023-12-03,1,981,Acer Aspire 3 A314-35 UN.K0SSI.011 Laptop,Acer,Celeron N4500,4,256,0,Windows,Intel UHD,14.0,1366 x 768,2,0,48,13000,1,0,0,1,Low-End
+2023-12-04,1,385,Apple MacBook Pro 14 inch Laptop,Apple,M2 Pro 10-core CPU,16,512,0,Mac,16-core GPU,14.2,3024 x 1964,10,0,54,12500,0,0,0,4,Mid-Range
+2023-12-06,1,426,Dell Vostro 3510 ICC-D585046WIN8 Laptop,Dell,Intel Pentium Gold 7505,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,53,11500,1,0,0,1,Low-End
+2023-12-07,1,626,Lenovo ThinkPad X1 Yoga 20XYS00R00 Laptop,Lenovo,11th Gen Core i7,16,1000,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,66,26500,1,0,11,4,Mid-Range
+2023-12-09,1,945,MSI Thin GF63 11UC-850IN Gaming Laptop,MSI,11th Gen Core i7,8,512,0,Windows,4 GB NVIDIA Geforce RTX 3050,15.6,1920 x 1080,8,16,72,35500,3,4,11,4,Mid-Range
+2023-12-09,1,961,HP Pavilion 14-dv2016TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xᵉ Graphics,14.0,1920 x 1080,10,12,62,22300,1,0,12,3,Mid-Range
+2023-12-10,1,39,HP Victus 15-fa0070TX Laptop,HP,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,8,12,71,27500,2,4,12,3,Mid-Range
+2023-12-11,1,453,Acer Nitro 5 AN515-45 UN.QCLSI.006 Gaming Laptop,Acer,AMD Ryzen 5 5600H,8,512,1000,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,69,30500,3,4,0,3,Mid-Range
+2023-12-12,1,342,Asus VivoBook 15 2021 X515JA-EJ362WS Laptop,Asus,10th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,50,16500,1,0,10,2,Low-End
+2023-12-13,1,851,Asus EeeBook 14 E410KA-BV121WS Laptop,Asus,Pentium Silver N6000,4,256,0,Windows,Intel HD Graphics,14.0,1366 x 768,4,4,41,11500,0,0,0,1,Low-End
+2023-12-13,1,943,Lenovo ThinkBook 15 21A4A09RIH Laptop,Lenovo,AMD Ryzen 5 5500U,16,512,0,Windows,AMD Radeon,15.6,1920 x 1080,6,12,66,17500,0,0,0,3,Mid-Range
+2023-12-13,1,293,Acer Aspire Vero AV15-51-5155 Laptop,Acer,11th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,66,22300,1,0,11,3,Mid-Range
+2023-12-14,1,431,Lenovo IdeaPad Flex 5 14ALC7 82R9006PIN Laptop,Lenovo,AMD Ryzen 5 5500U,16,512,0,Windows,AMD Radeon,14.0,1920 x 1200,6,12,69,17500,0,0,0,3,Mid-Range
+2023-12-15,1,37,MSI Bravo 15 B5DD-410IN Gaming Laptop,MSI,Ryzen 5 5600H,8,512,0,Windows,4 GB AMD Radeon RX 5500M,15.6,1920 x 1080,6,12,68,21500,2,4,0,3,Mid-Range
+2023-12-16,1,795,Lenovo Yoga 7 Flip 82QE009SIN Laptop,Lenovo,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,12,16,71,27300,1,0,12,4,Mid-Range
+2023-12-16,1,119,HP 14s-dr3001TU Laptop,HP,Pentium Silver N6000,8,256,0,Windows,Intel UHD Graphics,14.0,1366 x 768,4,4,51,11500,1,0,0,1,Low-End
+2023-12-19,1,120,Asus VivoBook 14 X415JA-EK522WS Laptop,Asus,10th Gen Core i5,8,512,0,Windows,Intel UHD,14.0,1920 x 1080,4,8,60,21500,1,0,10,3,Mid-Range
+2023-12-19,1,45,Infinix Zero Book Series ZL12 Laptop,Infinix,12th Gen Core i7,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,14,20,63,27300,1,0,12,4,Mid-Range
+2023-12-20,1,897,Acer Aspire 3 A315-59 Laptop,Acer,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,56,22300,1,0,12,3,Mid-Range
+2023-12-20,1,487,Lenovo Ideapad Slim 3 81WE01QSIN Laptop,Lenovo,10th Gen Core i3,4,256,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,50,15500,1,0,10,2,Low-End
+2023-12-21,1,735,Acer Aspire 3 A314-35 UN.K0SSI.033 Laptop,Acer, Pentium Silver N6000,8,256,0,Windows,Intel Integrated UHD Graphics,14.0,1366 x 768,4,4,48,11500,1,0,0,1,Low-End
+2023-12-21,1,949,HP Pavilion 15s-fy5001TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe Graphics,15.6,1920 x 1080,12,16,59,22300,1,0,12,3,Mid-Range
+2023-12-21,1,1009,HP Pavilion 14-EC1008AU Laptop,HP,Ryzen 7 5825U,16,512,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,8,16,59,22500,0,0,0,4,Mid-Range
+2023-12-23,1,691,MSI Delta 15 A5EFK-201IN Gaming Laptop,MSI,AMD Ryzen 7 5800H,16,1000,0,Windows,10 GB AMD Radeon RX 6700M,15.6,1920 x 1080,8,16,79,26500,4,10,0,4,High-End
+2023-12-24,1,662,Gigabyte Aorus 5 SE4 Gaming Laptop,Gigabyte,12th Gen Core i7,16,512,0,Windows,8 GB NVIDIA GeForce RTX 3070,15.6,2560 x 1440,14,20,75,43000,5,8,12,4,High-End
+2023-12-25,1,521,Asus Vivobook 14 OLED X1405ZA-KM311WS Laptop,Asus,12th Gen Core i3,8,512,0,Windows,Intel Iris Xe,14.0,2880 x 1800,6,8,56,17300,1,0,12,2,Low-End
+2023-12-27,1,305,HP Pavilion 15-EG2019TX Laptop,HP,12th Gen Core i5,16,512,0,Windows,2 GB NVIDIA GeForce MX550,15.6,1920 x 1080,10,12,60,21500,2,2,12,3,Mid-Range
+2023-12-27,1,97,Samsung Galaxy Book2 Pro 360 15 Laptop,Samsung,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1080 x 1920,8,16,74,27300,1,0,12,4,Mid-Range
+2023-12-28,1,651,MSI Gaming Katana GF66 12UE-1002IN Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,6 GB Nvidia GeForce RTX 3060,15.6,1920 x 1080,14,20,78,40500,4,6,12,4,High-End
+2023-12-29,1,318,HP 240 G8 Laptop,HP,11th Gen Core i5,8,512,0,Windows,Intel Integrated,14.0,1366 x 768,4,8,51,21500,1,0,11,3,Mid-Range
+2023-12-29,1,887,HP Victus 16-e0305ax Gaming Laptop,HP,AMD Ryzen 7 5800H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.1,1920 x 1080,8,16,74,35500,3,4,0,4,Mid-Range
+2023-12-30,1,977,Lenovo IdeaPad 5 Pro 14ITL6 82L300CAIN Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,Intel Integrated,14.0,2304 x 1400,4,8,63,26500,1,0,11,4,Mid-Range
+2023-12-31,1,558,Lenovo V15 82C30057IH Laptop,Lenovo,Intel Celeron N4020,4,0,1000,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,2,48,13000,1,0,0,1,Low-End
+2024-01-02,1,634,Asus ROG Zephyrus G14 GA402RJZ-L4136WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,16,1000,0,Windows,8 GB AMD Radeon RX 6700S,14.0,1920 x 1080,8,16,82,43000,4,8,0,5,High-End
+2024-01-02,1,21,Asus VivoBook 14 X415JA-BV301WS Laptop,Asus,10th Gen Core i3,8,0,1000,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,4,51,15500,1,0,10,2,Low-End
+2024-01-04,1,129,Asus TUF Dash F15 2022 FX517ZC-HN108WS Gaming Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,10,16,76,35500,3,4,12,4,Mid-Range
+2024-01-06,1,717,HP Victus 15-fb0053AX Gaming Laptop,HP,Ryzen 7-5800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.1,1920 x 1080,8,16,71,35500,3,4,0,4,Mid-Range
+2024-01-06,1,375,MSI Katana GF66 12UD Gaming Laptop,MSI,12th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050Ti,15.6,1920 x 1080,14,20,76,35500,3,4,12,4,Mid-Range
+2024-01-08,1,103,Lenovo IdeaPad 3i ‎82RJ005BUS Laptop,Lenovo,12th Gen Core i5,8,256,0,Windows,Intel iris Xe Integrated,14.0,1920 x 1080,10,12,62,21300,1,0,12,3,Mid-Range
+2024-01-10,1,198,Asus Vivobook 15 2022 X1502ZA-EJ514WS Laptop,Asus,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,62,22300,1,0,12,3,Mid-Range
+2024-01-10,1,550,Lenovo IdeaPad Gaming 3 82S900HNIN Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,12,73,30500,3,4,12,3,Mid-Range
+2024-01-13,1,799,Acer Aspire 7 A715-5G UN.QGBSI.002 Gaming Laptop,Acer,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,12,16,65,27500,2,4,12,3,Mid-Range
+2024-01-14,1,557,Lenovo V14 Gen 2 ITL 82KAA001IH Laptop,Lenovo,11th Gen Core i5,8,0,1000,DOS,Intel Integrated,14.0,1920 x 1080,4,8,53,20500,1,0,11,3,Mid-Range
+2024-01-15,1,238,Dell Vostro 3425 D552305WIN9BE Laptop,Dell,AMD Ryzen 3 5425U,8,256,0,Windows,AMD Radeon AMD,14.0,1920 x 1080,4,8,59,11500,0,0,0,2,Low-End
+2024-01-15,1,1004,Asus Vivobook Pro 14 OLED 2021 M3401QC-KM045WS Laptop,Asus,Ryzen 7-5800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX RTX 3050,14.0,2880 x 1800,8,16,67,35500,3,4,0,4,Mid-Range
+2024-01-15,1,333,Lenovo IdeaPad 3 82H801L7IN,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,53,16500,1,0,11,2,Low-End
+2024-01-16,1,750,Asus VivoBook 14 X415EA-EK322WS Notebook,Asus,11th Gen Core i3,8,512,0,Windows,Intel Integrated Intel UHD,14.0,1920 x 1080,2,4,57,16500,1,0,11,2,Low-End
+2024-01-16,1,925,Asus ROG Strix G15 Advantage Edition G513QY-HQ032WS Gaming Laptop,Asus,Ryzen 9 5900HX,16,1000,0,Windows,12 GB AMD Radeon RX 6800M,15.6,2560 x 1440,8,16,78,43000,5,12,0,5,High-End
+2024-01-17,1,729,Gigabyte Aorus 5 KE4 Gaming Laptop,Gigabyte,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,80,40500,4,6,12,4,High-End
+2024-01-18,1,343,HP Pavilion 15-dk2095TX Gaming Laptop,HP,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,55,27500,2,4,11,3,Mid-Range
+2024-01-20,1,457,Lenovo Ideapad Slim 3 81WD014XIN Laptop,Lenovo,10th Gen Core i3,4,256,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,54,15500,1,0,10,2,Low-End
+2024-01-20,1,201,Dell G15-5521 D560897WIN9S Gaming Laptop,Dell,12th Gen Core i9,16,1000,0,Windows,8 GB NVIDIA GEFORCE RTX 3070 Ti,15.6,2560 x 1440,14,20,71,45000,5,8,12,5,High-End
+2024-01-23,1,789,Dell Alienware M15 ICC-C780002WIN8 Laptop,Dell, AMD Ryzen 7-5800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050Ti,15.6,1920 x 1080,8,16,67,35500,3,4,0,4,Mid-Range
+2024-01-24,1,456,HP 240 G8 Business Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel Integrated,14.0,1366 x 768,2,4,49,16500,1,0,11,2,Low-End
+2024-01-24,1,163,Apple MacBook Pro 14 inch MKGP3HN Laptop,Apple,M1 Pro 8-core CPU,16,512,0,Mac,14-Core GPU,14.2,3024 x 1964,8,0,53,12500,0,0,0,3,Mid-Range
+2024-01-28,1,62,MSI Thin GF63 11SC-852IN Gaming Laptop,MSI,11th Gen Core i7,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650 MAX Q,15.6,1920 x 1080,8,16,73,32500,2,4,11,4,Mid-Range
+2024-01-28,1,675,Lenovo V15 82KDA01DIH Laptop,Lenovo,AMD Ryzen 3 5300U,8,256,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,4,8,62,11500,0,0,0,2,Low-End
+2024-01-31,1,636,Asus ROG Flow X16 2022 GV601RM-M5053WS Gaming Laptop,Asus,Ryzen 7 6800HS,16,1000,0,Windows,6 GB AMD Radeon Radeon 680M,16.0,2560 x 1600,8,16,87,43000,1,6,0,4,Mid-Range
+2024-01-31,1,584,Acer TravelMate TMB311-31 Laptop,Acer,Intel Pentium N5030,4,128,0,Windows,UHD Graphics 600,11.6,1366 x 768,4,4,49,11500,1,0,0,1,Low-End
+2024-02-03,1,918,Acer Aspire 5 A515-56 UN.A1ESI.022,Acer,11th Gen Core i5,8,512,0,Windows,Intel Integrated,15.6,1920 x 1080,4,8,53,21500,1,0,11,3,Mid-Range
+2024-02-04,1,114,HP Pavilion 15-eg2018TX Laptop,HP,12th Gen Core i5,16,512,0,Windows,2 GB NVIDIA GeForce MX550,15.6,1920 x 1080,10,12,56,21500,2,2,12,3,Mid-Range
+2024-02-04,1,410,Dell Vostro 3520 Laptop,Dell,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,56,22300,1,0,12,3,Mid-Range
+2024-02-06,1,432,Lenovo V14 Gen 2 ‎82C40019IX Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,56,22300,1,0,11,3,Mid-Range
+2024-02-08,1,105,Samsung Galaxy Book 2 NP550XED-KA3IN Laptop,Samsung,12th Gen Core i7,16,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,10,12,63,26500,1,0,12,4,Mid-Range
+2024-02-09,1,258,HP 15s-du3614TU Laptop,HP,11th Gen Core i3,8,256,1000,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,61,15500,1,0,11,2,Low-End
+2024-02-10,1,582,Dell Latitude 3420 2022 Laptop,Dell,11th Gen Core i5,16,1000,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,68,21500,1,0,11,3,Mid-Range
+2024-02-12,1,762,Asus ROG Strix G15 2022 G513RW-HQ137WS Gaming Laptop,Asus,AMD Ryzen 9 6900HX,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070 Ti,15.6,2560 x 1440,8,16,84,45000,5,8,0,5,High-End
+2024-02-13,1,497,Asus VivoBook 14 X415MA-BV102WS Laptop,Asus,Pentium Silver N5030,8,256,0,Windows,Intel Integrated UHD,14.1,1366 x 768,4,0,49,11500,1,0,0,1,Low-End
+2024-02-15,1,527,Lenovo IdeaPad 3 15IAU7 82RK0090IN Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,2880 x 1800,10,12,60,22300,1,0,12,3,Mid-Range
+2024-02-15,1,64,Asus Zenbook 17 Fold UX9702AA-MD023WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,17.3,2560 x 1920,10,12,80,27300,1,0,12,4,Mid-Range
+2024-02-16,1,818,Asus ROG Flow X16 2022 GV601RM-M6054WS Gaming Laptop,Asus,Ryzen 7 6800HS,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,2560 x 1600,8,16,82,43000,4,6,0,4,High-End
+2024-02-18,1,4,HP 15s-fr4000TU Laptop,HP,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,63,22300,1,0,11,3,Mid-Range
+2024-02-18,1,135,Asus ROG Strix G17 2022 G713IE-HX040W Gaming Laptop,Asus,AMD Ryzen 7 4800H,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,17.3,1920 x 1080,8,16,75,35500,3,4,0,4,Mid-Range
+2024-02-19,1,199,Asus VivoBook 15 X1500EA-EJ522WS Laptop,Asus,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,56,22300,1,0,11,3,Mid-Range
+2024-02-19,1,532,Lenovo IdeaPad Slim 3 82RJ005CIN Laptop,Lenovo,12th Gen Core i5,8,512,0,Windows,‎Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,59,22300,1,0,12,3,Mid-Range
+2024-02-19,1,522,Dell Alienware M15 R6 Gaming Laptop,Dell,11th Gen Core i7,16,512,0,Windows,6 GB NVIDIA Geforce RTX 3060,15.6,1920 x 1080,8,16,79,40500,4,6,11,4,High-End
+2024-02-20,1,840,MSI Alpha 15 B5EEK-029IN Laptop,MSI,Ryzen 5 5600H ,16,512,0,Windows,8 GB AMD Radeon RX6600M,15.6,1920 x 1080,6,12,68,21500,0,8,0,3,Mid-Range
+2024-02-21,1,608,Lenovo Yoga Slim 7 Pro 82SV0053IN Laptop,Lenovo,12th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,14.0,2880 x 1800,12,16,63,27300,1,0,12,4,Mid-Range
+2024-02-22,1,92,HP Victus 15-fa0350TX Laptop,HP,12th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,12,75,30500,3,4,12,3,Mid-Range
+2024-02-23,1,773,HP 14s-dq3037tu Laptop,HP,Intel Celeron N4500,8,256,0,Windows,Intel Integrated UHD Graphics,14.0,1366 x 768,2,0,45,13000,1,0,0,1,Low-End
+2024-02-26,1,253,HP 15s-fr2514TU Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,44,15500,1,0,11,2,Low-End
+2024-02-26,1,594,Acer Aspire 3 A315-23 Laptop,Acer,Ryzen 5 3500U,8,512,0,Windows,AMD Radeon AMD,15.6,1920 x 1080,4,8,56,17500,0,0,0,3,Mid-Range
+2024-02-26,1,630,Asus VivoBook 14 2021 X415KA-BV121WS Laptop,Asus,Intel Silver N6000,8,256,0,Windows,Intel Integrated Intel UHD,14.1,1366 x 768,4,4,48,13000,1,0,0,0,Low-End
+2024-02-26,1,677,Lenovo Legion 5 82JU00SYIN Laptop,Lenovo,AMD Ryzen 7 5800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,2560 x 1600,8,16,79,40500,4,6,0,4,High-End
+2024-02-27,1,31,HP 15s- eq2212AU Laptop,HP,AMD Ryzen 3 5300U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,4,8,59,12500,0,0,0,2,Low-End
+2024-02-29,1,547,Chuwi Gemibook Pro Laptop,Chuwi,Intel Celeron N5100,8,256,0,Windows,Intel UHD 600 Graphics,14.0,2160 x 1440,4,4,0,13000,1,0,0,1,Low-End
+2024-02-29,1,144,Asus Vivobook Pro 14 OLED M3400QA-KM512WS Gaming Laptop,Asus,Ryzen 5 5600H,16,512,0,Windows,AMD Radeon Graphics,14.0,2880 x 1800,6,12,72,21500,0,0,0,3,Mid-Range
+2024-03-03,1,1008,Asus VivoBook 14 2021 X415MA-BV011W Laptop,Asus,Celeron N4020,4,256,0,Windows,Missing,14.0,1366 x 768,0,0,0,13000,0,0,0,1,Low-End
+2024-03-04,1,82,Samsung Galaxy Book 3 360 NP750QFG-KA1IN Laptop,Samsung,13th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,12,16,73,27300,1,0,13,4,Mid-Range
+2024-03-04,1,460,Asus Eeebook 14 E410KA-BV092W Laptop,Asus,Celeron N4500,4,256,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,2,44,13000,1,0,0,1,Low-End
+2024-03-04,1,895,Lenovo Legion 5 82JK00BEIN Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,73,35500,3,4,11,4,Mid-Range
+2024-03-06,1,807,Asus ROG Flow X13 GV301RE-LI201WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS ,32,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,13.4,3840 x 2400,8,16,84,35500,3,4,0,4,Mid-Range
+2024-03-07,1,263,Lenovo Ideapad Gaming 3 82K201UNIN Laptop,Lenovo,Ryzen 7 5800H,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,75,40500,4,6,0,4,High-End
+2024-03-09,1,189,HP 255 G8 Business Laptop,HP,Athlon 3050U,8,0,1000,Windows,AMD Radeon Graphics,15.6,1366 x 768,2,2,47,14000,0,0,0,1,Low-End
+2024-03-09,1,132,HP 14s-dy2507TU Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel Integrated UHD Graphics,14.0,1920 x 1080,2,4,55,15500,1,0,11,2,Low-End
+2024-03-10,1,192,Dell Inspiron 5620 Laptop,Dell,12th Gen Core i7,16,512,0,Windows,2 GB NVIDIA GeForce MX570,16.0,1920 x 1080,10,12,69,26500,2,2,12,4,Mid-Range
+2024-03-11,1,899,Asus TUF Gaming F17 FX777ZE-HX052WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050,17.3,1920 x 1080,14,20,80,35500,3,4,12,4,Mid-Range
+2024-03-12,1,46,Asus VivoBook 15 X1500EA-EJ701W Laptop,Asus,11th Gen Core i7,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,63,27300,1,0,11,4,Mid-Range
+2024-03-14,1,562,Lenovo Yoga 9 82LU008TIN Laptop,Lenovo,12th Ge Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,14.0,3840 x 2160,14,20,69,27300,1,0,12,4,Mid-Range
+2024-03-18,1,603,Honor MagicBook 15 WDQ9CHNE Laptop,Honor,AMD Ryzen 5 5500U,8,256,0,Windows,AMD Radeon,15.6,1920 x 1080,6,12,51,16500,0,0,0,3,Mid-Range
+2024-03-19,1,223,Lenovo IdeaPad 3 82KU00LQIN Laptop,Lenovo,AMD Ryzen 5 5500U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,6,12,55,17500,0,0,0,3,Mid-Range
+2024-03-20,1,824,HP Pavilion x360 14-ek0078TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,60,22300,1,0,12,3,Mid-Range
+2024-03-22,1,264,Lenovo IdeaPad Slim 3 82H701DNIN Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,4,48,16500,1,0,11,2,Low-End
+2024-03-23,1,164,HP Victus 16-e0162AX Gaming Laptop,HP,Ryzen 5 5600H,8,512,0,Windows,4 GB AMD Radeon RX 5500M,16.1,1920 x 1080,6,12,65,21500,2,4,0,3,Mid-Range
+2024-03-24,1,502,HP 15s-fq2670TU Laptop,HP,11th Gen Core i3,8,256,0,Windows,Intel Integrated,15.6,1920 x 1080,2,4,54,15500,1,0,11,2,Low-End
+2024-03-26,1,970,Asus X515EA-BQ522WS Laptop,Asus,11th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,4,8,61,22300,1,0,11,3,Mid-Range
+2024-03-28,1,347,HP Pavilion 15-ec2008AX Gaming Laptop,HP,Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,71,27500,2,4,0,3,Mid-Range
+2024-03-29,1,560,Lenovo ThinkPad E14 21E3S04W00 Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,57,22300,1,0,12,3,Mid-Range
+2024-03-30,1,61,Lenovo IdeaPad Slim 3 82RK0062IN Laptop,Lenovo,12th Gen Core i5,8,512,0,Windows,‎Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,55,22300,1,0,12,3,Mid-Range
+2024-03-30,1,835,Asus VivoBook 14 X415JA-EB521WS Laptop,Asus,10th Gen Core i5,8,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,55,21500,1,0,10,3,Mid-Range
+2024-03-30,1,503,Asus VivoBook 15 X515JA-EJ392WS Laptop,Asus,10th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,56,16500,1,0,10,2,Low-End
+2024-04-02,1,215,MSI Modern 15 B12M-202IN Laptop,MSI,12th Gen Core i5,8,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,10,12,61,22300,1,0,12,3,Mid-Range
+2024-04-03,1,72,Samsung Galaxy Book 3 Pro 14 NP940XFG-KC5IN Laptop,Samsung,13th Gen Core i7,16,1000,0,Windows,‎Intel Iris Xe Graphics,14.0,2880 x 1800,12,16,74,27300,1,0,13,4,Mid-Range
+2024-04-06,1,1001,Lenovo IdeaPad Slim 3 81WE01QLIN Laptop,Lenovo,10th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,14.0,1920 x 1080,2,4,53,16500,1,0,10,2,Low-End
+2024-04-08,1,947,MSI Thin GF63 11UC-851IN Gaming Laptop,MSI,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA Geforce RTX 3050,15.6,1920 x 1080,6,12,71,30500,3,4,11,3,Mid-Range
+2024-04-09,1,319,Lenovo E41-55 82FJ009JIH Laptop,Lenovo,Athlon Pro 3045B,4,0,1000,DOS,Missing,14.0,1920 x 1080,2,2,0,15500,0,0,0,1,Low-End
+2024-04-13,1,374,Lenovo Legion 5 Pro 82RG00ELIN Laptop,Lenovo,AMD Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,2560 x 1600,8,16,75,40500,4,6,0,4,High-End
+2024-04-13,1,654,HP 255 G8 6V2R7PA Laptop,HP,AMD Athlon 3050U,4,0,1000,DOS,AMD Radeon Graphics,15.6,1366 x 768,2,2,48,14000,0,0,0,1,Low-End
+2024-04-14,1,655,Acer Swift X SFX14-41G Laptop,Acer,AMD Ryzen 5 5600U,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,14.0,1920 x 1080,6,12,66,30000,3,4,0,3,Mid-Range
+2024-04-14,1,94,HP Victus 16-e0352AX Gaming Laptop,HP,Ryzen 5-5600H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,16.1,1920 x 1080,6,12,72,30500,3,4,0,3,Mid-Range
+2024-04-16,1,70,Samsung Galaxy Book 3 Pro NP960XFG-KC1IN Laptop,Samsung,13th Gen Core i7,16,512,0,Windows,‎Intel Iris Xe Graphics,16.0,2880 x 1800,12,16,73,27300,1,0,13,4,Mid-Range
+2024-04-16,1,371,HP Victus 16-d0311TX Gaming Laptop,HP,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,16.1,1920 x 1080,6,12,74,27500,2,4,11,3,Mid-Range
+2024-04-16,1,443,HP Envy x360 13-AY1065AU Laptop,HP,AMD Ryzen 5-5600U,8,512,0,Windows,AMD Radeon,13.3,1920 x 1080,6,12,65,17500,0,0,0,3,Mid-Range
+2024-04-17,1,985,Dell Inspiron 5310 Laptop,Dell,11th Gen Core i5,16,512,0,Windows,2 GB NVIDIA GeForce MX450,13.3,2560 x 1600,4,8,66,21500,2,2,11,3,Mid-Range
+2024-04-18,1,622,HP 250 G8 6G9R1PA Notebook,HP,11th Gen Core i3,8,512,0,DOS,Intel Integrated Intel® UHD Graphics,15.6,1366 x 768,0,0,0,16500,1,0,11,2,Low-End
+2024-04-19,1,209,Honor MagicBook 14 M-WFQ9AHNE Laptop,Honor,AMD Ryzen 5 5500U,16,512,0,Windows,AMD Radeon,14.0,1920 x 1080,6,12,59,17500,0,0,0,3,Mid-Range
+2024-04-22,1,606,HP Envy 16-h0025tx Laptop,HP,12th Gen Core i9,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,3840 x 2160,14,20,76,38000,4,6,12,5,High-End
+2024-04-23,1,564,Acer One 14 Z2-493 Business Laptop,Acer,AMD Ryzen 5 3500U,16,512,0,Windows,AMD Radeon Radeon Graphics,14.0,1366 x 768,4,8,59,17500,0,0,0,3,Mid-Range
+2024-04-24,1,780,Lenovo Ideapad Gaming 3 82K201UMIN Laptop,Lenovo,Ryzen 7 5800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,67,35500,3,4,0,4,Mid-Range
+2024-04-24,1,477,Lenovo ‎ThinkPad E14 Gen 4 Laptop,Lenovo,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,14.0,1920 x 1080,10,12,57,22300,1,0,12,3,Mid-Range
+2024-04-26,1,194,Asus VivoBook 14 X415EA-EK522WS Laptop,Asus,11th Gen Core i5,8,512,0,Windows,Intel Integrated Intel UHD,14.0,1920 x 1080,4,8,65,21500,1,0,11,3,Mid-Range
+2024-04-26,1,728,Asus ProArt StudioBook Pro 16 OLED H7600ZW-L911W Laptop,Asus,12th Gen Core i9,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,16.0,3840 x 2400,14,20,94,43000,5,8,12,5,High-End
+2024-04-27,1,249,Lenovo Ideapad Gaming 3 82K201UKIN Laptop,Lenovo,Ryzen 7 5800H,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,16,67,35500,3,4,0,4,Mid-Range
+2024-04-29,1,802,Dell Vostro 3425 Laptop,Dell,AMD Ryzen 5 5625U,8,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1080,6,12,67,17500,0,0,0,3,Mid-Range
+2024-04-29,1,701,Lenovo V14-IGL Laptop,Lenovo,Celeron N4020,4,0,1000,Windows,Intel Integrated UHD,14.0,1920 x 1080,2,2,48,13000,1,0,0,1,Low-End
+2024-05-01,1,40,Lenovo IdeaPad Slim 1 82R10049IN Laptop,Lenovo,AMD Ryzen 3 3250U,8,512,0,Windows,AMD Radeon Graphics,15.6,1920 x 1080,2,4,60,12500,0,0,0,2,Low-End
+2024-05-02,1,0,Lenovo V15 ITL G2 82KBA033IH Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,62,16500,1,0,11,2,Low-End
+2024-05-03,1,982,Lenovo IdeaPad 3 15IGL05 81WQ00MQIN Laptop,Lenovo,Celeron N4020,8,256,0,Windows,Intel Integrated UHD 600,15.6,1366 x 768,2,2,53,13000,1,0,0,1,Low-End
+2024-05-06,1,817,Asus ROG Zephyrus G15 2022 GA503RW-LN067WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,15.6,2560 x 1440,8,16,86,43000,5,8,0,5,High-End
+2024-05-07,1,878,MSI Sword 15 A12UD-471IN  Gaming Laptop,MSI,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,15.6,1920 x 1080,12,16,69,34000,3,4,12,3,Mid-Range
+2024-05-07,1,89,Lenovo IdeaPad Gaming 3 82K201Y9IN Laptop,Lenovo,AMD Ryzen 5-5600H,8,256,1000,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,73,26500,2,4,0,3,Mid-Range
+2024-05-08,1,657,Dell Vostro 3400 Laptop,Dell,11th Gen Core i3,8,0,1000,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,2,4,56,16300,1,0,11,2,Low-End
+2024-05-09,1,401,Dell Inspiron 3520 2022 Laptop,Dell,12th Gen Core i5,8,256,1000,Windows,2 GB NVIDIA MX550 Graphics,15.6,1920 x 1080,10,12,67,20500,2,2,12,3,Mid-Range
+2024-05-10,1,644,Lenovo IdeaPad Flex 5 82R7006HIN Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Integrated UHD Xe,14.0,1920 x 1080,4,8,69,21500,1,0,11,3,Mid-Range
+2024-05-12,1,660,Lenovo Thinkbook 14 Gen 2 20VDA0G9IH Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,57,22300,1,0,11,3,Mid-Range
+2024-05-15,1,569,Gigabyte G5 RC45KD Laptop,Gigabyte,11th Gen Core i5,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,6,12,72,38000,4,6,11,3,Mid-Range
+2024-05-17,1,526,Lenovo V15 82C500XHIH Laptop,Lenovo,10th Gen Core i5,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,4,8,53,21500,1,0,10,3,Mid-Range
+2024-05-17,1,48,Lenovo IdeaPad Gaming 3 82K201YAIN Laptop,Lenovo,AMD Ryzen 5 5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,69,27500,2,4,0,3,Mid-Range
+2024-05-19,1,444,Dell Latitude 14 7420 Laptop,Dell,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,57,22300,1,0,11,3,Mid-Range
+2024-05-20,1,1007,Asus VivoBook 14 X415JA-EB501WS Laptop,Asus,10th Gen Core i5,8,0,1000,Windows,Intel UHD Graphics,14.0,1920 x 1080,4,8,54,20500,1,0,10,3,Mid-Range
+2024-05-22,1,914,Asus ROG Flow Z13 2022 GZ301ZA-LD049WS Gaming Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris X Graphics,13.4,1920 x 1200,12,16,74,22300,1,0,12,3,Mid-Range
+2024-05-26,1,99,Asus VivoBook K15 OLED KM513UA-L503WS Laptop,Asus,Ryzen 5 5500U,8,256,1000,Windows,AMD Radeon AMD,15.6,1920 x 1080,6,12,65,16500,0,0,0,3,Mid-Range
+2024-05-28,1,5,Lenovo IdeaPad Gaming 3 82K101ECIN Laptop,Lenovo,11th Gen Core i5,8,256,1000,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,73,26500,2,4,11,3,Mid-Range
+2024-05-28,1,708,HP Spectre x360 13-ef0057TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris X Graphics,13.5,1920 x 1280,10,12,69,22300,1,0,12,3,Mid-Range
+2024-05-28,1,520,Lenovo ThinkPad X1 Carbon 21CB002JIG Laptop,Lenovo,12th Gen Core i7,16,1000,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1200,10,12,59,27300,1,0,12,4,Mid-Range
+2024-06-04,1,463,Lenovo V14 82KAA057IH Laptop,Lenovo,11th Gen Core i3,8,256,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,2,4,53,15500,1,0,11,2,Low-End
+2024-06-06,1,469,Lenovo Ideapad Slim 3 81WB01FYIN Laptop,Lenovo,10th Gen Core i3,8,256,0,Windows,Intel Integrated,15.6,1920 x 1080,2,4,50,15500,1,0,10,2,Low-End
+2024-06-12,1,664,Lenovo Ideapad Flex 5 14IAU7 82R7006EIN Laptop,Lenovo,12th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,6,8,61,16500,1,0,12,2,Low-End
+2024-06-15,1,956,Dell Inspiron 7425 Laptop,Dell,AMD Ryzen 5 5625U,8,512,0,Windows,AMD Radeon,14.0,1920 x 1200,6,12,72,17500,0,0,0,3,Mid-Range
+2024-06-16,1,726,Asus ProArt StudioBook Pro 16 H7600ZW-L711WS Laptop,Asus,12th Gen Core i7,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070 Ti,16.0,3840 x 2400,14,20,91,45000,5,8,12,4,High-End
+2024-06-19,1,397,HP 15s-du3612TU Laptop,HP,11th Gen Core i3,8,256,1000,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,62,15500,1,0,11,2,Low-End
+2024-06-21,1,751,Acer Aspire 3 A315-23 UN.HVTSI.015 Laptop,Acer,AMD Ryzen 5 3500U,8,512,0,Windows,AMD Radeon AMD,15.6,1920 x 1080,4,8,56,17500,0,0,0,3,Mid-Range
+2024-06-22,1,605,HP Envy 16-h0026tx Laptop,HP,12th Gen Core i9,32,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,3840 x 2160,14,20,78,38000,4,6,12,5,High-End
+2024-06-23,1,614,Gigabyte Aero 5 XE4 OLED Laptop,Gigabyte,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070Ti,15.6,1920 x 1080,14,20,81,43000,5,8,12,4,High-End
+2024-06-24,1,326,Asus Vivobook 13 Slate OLED T3300KA-LQ111WS Laptop,Asus,Pentium Silver N6000,8,256,0,Windows,Intel UHD Graphics,13.3,1920 x 1080,4,4,54,11500,1,0,0,1,Low-End
+2024-06-26,1,193,Acer Aspire 7 A715-51G UN.QGCSI.002 Gaming Laptop,Acer,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,12,16,76,30500,3,4,12,3,Mid-Range
+2024-07-03,1,515,Acer Aspire 5 A515-57 Gaming Laptop,Acer,12th Gen Core i3,8,512,0,Windows,Intel Integrated,15.6,1920 x 1080,6,8,54,16500,1,0,12,2,Low-End
+2024-07-04,1,863,Asus ROG Strix G17 2022 G713RW-LL133WS Gaming Laptop,Asus,AMD Ryzen 9 6900HX,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050,17.3,2560 x 1440,8,16,79,30000,3,4,0,5,Mid-Range
+2024-07-05,1,669,Gigabyte Aero 5 KE4 OLED Laptop,Gigabyte,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,79,40500,4,6,12,4,High-End
+2024-07-06,1,555,HP Omen 16-n0049AX Gaming Laptop,HP,AMD Ryzen 7 6800H,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050Ti,16.0,1920 x 1080,8,16,66,35500,3,4,0,4,Mid-Range
+2024-07-06,1,909,Asus VivoBook 14 2022 X1402ZA-EB512WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,1920 x 1080,12,16,63,22300,1,0,12,3,Mid-Range
+2024-07-11,1,369,HP Victus 16-d0310TX Gaming Laptop,HP,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,16.1,1920 x 1080,6,12,72,27500,2,4,11,3,Mid-Range
+2024-07-11,1,829,HP 15s-fq2674TU Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,57,16500,1,0,11,2,Low-End
+2024-07-13,1,28,HP 15s-FR2511TU Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,15.6,1920 x 1080,2,4,60,16500,1,0,11,2,Low-End
+2024-07-14,1,929,Asus ZenBook Pro Duo 15 OLED 2021 UX582HM-H701WS Laptop,Asus,11th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,3840 x 2160,8,16,86,40500,4,6,11,4,High-End
+2024-07-16,1,138,Acer Nitro 5 AN515-56 Gaming Laptop,Acer,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,73,27500,2,4,11,3,Mid-Range
+2024-07-16,1,870,MSI Crosshair 15 B12UEZ-037IN Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,76,40500,4,6,12,4,High-End
+2024-07-18,1,254,Asus Zenbook Flip 14 OLED UP5401ZA-KN501WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,14.0,2880 x 1800,12,16,65,22300,1,0,12,3,Mid-Range
+2024-07-18,1,635,HP Envy x360 13-bf0078TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris X Graphics,13.3,1920 x 1080,10,12,65,22300,1,0,12,3,Mid-Range
+2024-07-19,1,52,Lenovo IdeaPad Gaming 3 82K201UEIN Laptop,Lenovo,AMD Ryzen 5-5600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,69,27500,2,4,0,3,Mid-Range
+2024-07-19,1,811,Asus ROG Zephyrus G15 2022 GA503RS-HQ027WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3080,15.6,2560 x 1440,8,16,84,43000,5,8,0,5,High-End
+2024-07-20,1,732,HP 250 G8 64Q91PA Laptop,HP,11th Gen Core i5,8,0,1000,Windows,Intel Integrated,15.6,1366 x 768,4,8,50,20500,1,0,11,3,Mid-Range
+2024-07-20,1,429,Lenovo E41-55 82FJ00B5IH Laptop,Lenovo,Athlon 3050U,4,256,0,DOS,AMD Radeon AMD,14.0,1366 x 768,2,2,48,14000,0,0,0,1,Low-End
+2024-07-22,1,744,Asus TUF Gaming A15 2022 FA577RM-HF031WS Gaming Laptop,Asus,AMD Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,81,40500,4,6,0,4,High-End
+2024-07-23,1,827,HP 15s-fq2672TU Laptop,HP,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,61,16500,1,0,11,2,Low-End
+2024-07-24,1,648,MSI Gaming Katana GF76 11UC-848IN Laptop,MSI,11th Gen Core i7,16,512,0,Windows,4 GB Nvidia RTX 3050,17.32,1920 x 1080,8,16,69,35500,3,4,11,4,Mid-Range
+2024-07-26,1,358,Dell Inspiron 3501 Laptop,Dell,11th Gen Core i5,8,256,1000,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,4,8,57,21300,1,0,11,3,Mid-Range
+2024-07-28,1,537,Asus Vivobook S15 OLED S3502ZA-L701WS Laptop,Asus,12th Gen Core i7,16,512,0,Windows,Intel Iris XE Graphics,15.6,1920 x 1080,14,20,73,27300,1,0,12,4,Mid-Range
+2024-08-10,1,523,Lenovo IdeaPad Gaming 3 82K101E1IN Laptop,Lenovo,11th Gen Core i5,8,256,1000,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,62,26500,2,4,11,3,Mid-Range
+2024-08-11,1,539,MSI Creator Z16P B12UKST-209IN Gaming Laptop,MSI,12th Gen Core i9,64,2000,0,Windows,12 GB NVIDIA GeForce RTX A3000,17.3,2560 x 1600,14,20,91,30500,0,12,12,5,Mid-Range
+2024-08-14,1,377,HP Pavilion 15-eg2091TU Laptop,HP,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,12,16,63,22300,1,0,12,3,Mid-Range
+2024-08-15,1,911,Asus ROG Flow Z13 2022 GZ301ZE-LC193WS Gaming Laptop,Asus,12th Gen Core i9,16,1000,0,Windows,4 GB NVIDIA GeForce RTX 3050 Ti,13.4,3840 x 2400,14,20,74,34000,3,4,12,5,Mid-Range
+2024-08-17,1,551,HP Omen 16-n0054AX Gaming Laptop,HP,AMD Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.1,1920 x 1080,8,16,74,40500,4,6,0,4,High-End
+2024-08-20,1,724,Asus ProArt StudioBook Pro 16 H7600ZM-L901WS Laptop,Asus,12th Gen Core i9,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,16.0,3840 x 2400,14,20,87,38000,4,6,12,5,High-End
+2024-08-20,1,798,Asus TUF Gaming F15 FX506HC-HN362WS Gaming Laptop,Asus,11th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,73,30500,3,4,11,3,Mid-Range
+2024-08-23,1,853,Dell XPS 13 9320 Laptop,Dell,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,13.4,3840 x 2400,12,16,66,22300,1,0,12,3,Mid-Range
+2024-08-24,1,472,Asus TUF Gaming F15 FX506LHB-HN358W Gaming Laptop,Asus,10th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,63,27500,2,4,10,3,Mid-Range
+2024-08-24,1,493,Lenovo V15 G2-ITL 82KBA034IH Laptop,Lenovo,11th Gen Core i3,8,512,0,DOS,Intel Integrated UHD,15.6,1920 x 1080,2,4,47,16500,1,0,11,2,Low-End
+2024-08-27,1,233,MSI Vector GP66 12UEO-646IN Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,85,40500,4,6,12,4,High-End
+2024-08-27,1,473,MSI Stealth 17M A12UE Gaming Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,17.3,1920 x 1080,14,20,73,40500,4,6,12,4,High-End
+2024-08-28,1,697,Lenovo ThinkBook 14 20VDA0THIH Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,62,22300,1,0,11,3,Mid-Range
+2024-08-30,1,998,Lenovo Thinkpad P15v 21AAS0R100 Laptop,Lenovo,11th Gen Core i7,16,1000,0,Windows,4 GB Nvidia Quadro T600,15.6,1920 x 1080,8,16,76,26500,0,4,11,4,Mid-Range
+2024-08-31,1,243,Lenovo Ideapad Slim 3i 81WQ00NXIN Laptop,Lenovo,Intel Celeron N4020,8,256,0,Windows,Intel Integrated UHD,15.6,1366 x 768,2,2,49,13000,1,0,0,1,Low-End
+2024-09-02,1,793,HP Victus 15-fa0073TX Laptop,HP,12th Gen Core i7,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,10,16,61,35500,3,4,12,4,Mid-Range
+2024-09-03,1,455,HP Envy x360 13-bf0085TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,13.3,1920 x 1200,10,12,63,22300,1,0,12,3,Mid-Range
+2024-09-05,1,56,Lenovo IdeaPad Slim 5 82SF008YIN Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,15.6,1920 x 1080,10,12,66,22300,1,0,12,3,Mid-Range
+2024-09-06,1,963,HP Pavilion Gaming 15-DK1520TX Laptop,HP,10th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,71,27500,2,4,10,3,Mid-Range
+2024-09-06,1,665,Lenovo Thinkpad L13 Gen 2 20VHS07500 Laptop,Lenovo,11th Gen Core i5,16,512,0,Windows,Intel Iris Xe Graphics,14.0,1920 x 1080,4,8,66,22300,1,0,11,3,Mid-Range
+2024-09-11,1,784,Lenovo IdeaPad Gaming 3 82K101A4IN Laptop,Lenovo,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,4,8,60,27500,2,4,11,3,Mid-Range
+2024-09-14,1,101,Microsoft Surface Laptop Go 1943 THJ-00023 Laptop,Microsoft,10th Gen Core i5,8,256,0,Windows,Intel Integrated UHD,12.4,1536 x 1024,4,8,55,20500,1,0,10,3,Mid-Range
+2024-09-15,1,380,HP ProBook 445 G8 Laptop,HP,AMD Ryzen 7 5800U,16,512,0,Windows,AMD Radeon,14.0,1366 x 768,8,16,72,22500,0,0,0,4,Mid-Range
+2024-09-17,1,458,Lenovo ThinkPad T14 20W0S1HU00 Laptop,Lenovo,11th Gen Core i7,16,512,0,Windows,2 GB NVIDIA MX450,14.0,1920 x 1080,4,8,69,26500,2,2,11,4,Mid-Range
+2024-09-19,1,965,HP Pavilion 14-dv2019TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Integrated Intel Iris Xe Graphics,14.0,1920 x 1080,10,12,55,22300,1,0,12,3,Mid-Range
+2024-09-22,1,915,Asus TUF Dash F15 2022 FX517ZR-HQ030WS Gaming Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070,15.6,2560 x 1440,10,16,74,43000,5,8,12,4,High-End
+2024-09-23,1,712,Asus ROG Strix G17 G713RM-KH168W Gaming Laptop,Asus,AMD Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,17.3,1920 x 1080,8,16,67,40500,4,6,0,4,High-End
+2024-09-24,1,147,MSI Gaming Crosshair 15 B12UEZ-677IN Laptop,MSI,12th Gen Core i7,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,14,20,84,40500,4,6,12,4,High-End
+2024-09-25,1,725,Asus ROG Zephyrus G15 GA503RM-LN095WS Gaming Laptop,Asus,AMD Ryzen 9 6900HS,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,2560 x 1440,8,16,82,38000,4,6,0,5,High-End
+2024-09-26,1,846,HP Pavilion 14s-fy1005AU Laptop,HP,Ryzen 7 5700U,16,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1080,8,16,62,22500,0,0,0,4,Mid-Range
+2024-09-29,1,19,Asus Vivobook 16X 2022 M1603QA-MB511WS Laptop,Asus,Ryzen 5-5600H,16,512,0,Windows,AMD Radeon Vega 7 Graphics,16.0,1920 x 1200,6,12,67,23000,1,0,0,3,Mid-Range
+2024-10-01,1,843,Asus VivoBook Ultra X415JA-EB531WS Laptop,Asus,10th Gen Core i5,16,512,0,Windows,Intel Integrated Intel UHD,14.0,1920 x 1080,4,8,61,21500,1,0,10,3,Mid-Range
+2024-10-04,1,813,Asus ROG Zephyrus G14 GA402RJ-L8182WS Gaming Laptop,Asus,AMD Ryzen 7 6800HS,16,1000,0,Windows,8 GB AMD Radeon RX 6700S,14.0,2560 x 1600,8,16,80,43000,4,8,0,4,High-End
+2024-10-08,1,447,Gigabyte G5 KE RC55KE Laptop,Gigabyte,12th Gen Core i5,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,12,16,74,38000,4,6,12,3,Mid-Range
+2024-10-11,1,204,Asus Vivobook 15 OLED X1505ZA-L1511WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Integrated Iris Xe,15.6,1920 x 1080,10,12,61,22300,1,0,12,3,Mid-Range
+2024-10-12,1,195,Dell Alienware M15 R7 Gaming Laptop,Dell,12th Gen Core i7,16,512,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,14,20,84,40500,4,6,12,4,High-End
+2024-10-14,1,513,Dell G15-5521 D560899WIN9S Gaming Laptop,Dell,12th Gen Core i9,16,1000,0,Windows,8 GB NVIDIA GEFORCE RTX 3070 Ti,15.6,2560 x 1440,14,20,72,45000,5,8,12,5,High-End
+2024-10-15,1,1011,Asus Strix G15 G513RM-HQ273WS Gaming Laptop,Asus,Ryzen 7 6800H,16,1000,0,Windows,6 GB NVIDIA GeForce RTX 3060,15.6,1920 x 1080,8,16,79,40500,4,6,0,4,High-End
+2024-10-16,1,117,HP Omen 16-n0079AX Gaming Laptop,HP,AMD Ryzen 7 6800H,16,512,0,Windows,8 GB AMD Radeon RX 6650M,16.1,1920 x 1080,8,16,81,43000,3,8,0,4,Mid-Range
+2024-10-28,1,723,Asus Zenbook Flip 14 OLED UP5401ZA-KN711WS Laptop,Asus,12th Gen Core i7,16,1000,0,Windows,Intel Integrated Iris Xe,14.0,2880 x 1800,14,20,78,27300,1,0,12,4,Mid-Range
+2024-10-28,1,880,Lenovo Thinkpad P15v 21AAS0R500 Laptop,Lenovo,11th Gen Core i9,32,1000,0,Windows,4 GB Nvidia RTX A2000,15.6,1920 x 1080,8,16,88,30500,3,4,11,5,Mid-Range
+2024-10-29,1,988,Asus Vivobook 14 OLED UX3402ZA-KM531WS Laptop,Asus,12th Gen Core i5,16,512,0,Windows,Intel Iris Xe,14.0,2880 x 1800,12,16,61,22300,1,0,12,3,Mid-Range
+2024-10-30,1,36,Dell Inspiron 5320 Laptop,Dell,12th Gen Core i7,16,512,0,Windows,Intel Integrated UHD,13.3,1920 x 1080,12,16,65,26500,1,0,12,4,Mid-Range
+2024-10-31,1,1017,Asus ROG Strix Scar 17 G733ZW-LL139WS Gaming Laptop,Asus,12th Gen Core i9,32,1000,0,Windows,8 GB NVIDIA GeForce RTX 3070 Ti,17.3,2560 x 1440,14,20,79,45000,5,8,12,5,High-End
+2024-11-10,1,242,HP Pavilion 15s-FR5007TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,59,22300,1,0,12,3,Mid-Range
+2024-11-14,1,252,MSI Thin GF63 11UC-867IN Gaming Laptop,MSI,11th Gen Core i5,8,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,6,12,67,30500,3,4,11,3,Mid-Range
+2024-11-22,1,321,HP Pavilion 14-ec1003AU Laptop,HP,Ryzen 5,8,512,0,Windows,AMD Radeon Graphics,14.0,1920 x 1080,6,12,60,19000,0,0,0,3,Mid-Range
+2024-11-23,1,425,HP Pavilion x360 14-ek0137TU Laptop,HP,12th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,14.0,1920 x 1080,6,8,66,16500,1,0,12,2,Low-End
+2024-11-30,1,356,Asus ROG Flow X13 GV301QH-K5462TS Gaming Laptop,Asus,AMD Ryzen 9,16,1000,0,Windows,4 GB NVIDIA GeForce GTX 1650,13.4,3840 x 2400,8,16,84,20000,2,4,0,5,Mid-Range
+2024-12-02,1,907,Lenovo IdeaPad Gaming 3 81Y401BHIN Gaming Laptop,Lenovo,10th Gen Core i7,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,72,32500,2,4,10,4,Mid-Range
+2024-12-07,1,633,Huawei MateBook 14 2021‎ WDH9A Laptop,Huawei,11th Gen Core i5,8,512,0,Windows,Intel Iris Xe Graphics,14.0,2160 x 1440,4,8,61,22300,1,0,11,3,Mid-Range
+2024-12-09,1,203,HP 255 G8 6X4B2PA Laptop,HP,AMD Athlon 3050,4,256,0,DOS,‎AMD Integrated,15.6,1920 x 1080,2,2,0,15500,1,0,0,1,Low-End
+2024-12-17,1,852,Dell Vostro 3420 D552276WIN9BE Laptop,Dell,11th Gen Core i3,8,512,0,Windows,Intel UHD Graphics,14.0,1366 x 768,2,4,48,16500,1,0,11,2,Low-End
+2024-12-22,1,300,HP Pavilion 15s-FQ5009TU Laptop,HP,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,59,22300,1,0,12,3,Mid-Range
+2024-12-22,1,571,Lenovo IdeaPad Gaming 3 15IAH7 82S900KQIN Laptop,Lenovo,12th Gen Core i5,16,512,0,Windows,4 GB NVIDIA GeForce RTX 3050,15.6,1920 x 1080,8,12,74,30500,3,4,12,3,Mid-Range
+2024-12-23,1,454,Acer Nitro 5 AN515-45 UN.QBMSI.009 Gaming Laptop,Acer,AMD Ryzen 5 5600H,16,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,71,27500,2,4,0,3,Mid-Range
+2024-12-24,1,490,Asus Vivobook 15 2022 X1502ZA-EJ515WS Laptop,Asus,12th Gen Core i5,8,512,0,Windows,Intel Iris Xe,15.6,1920 x 1080,10,12,62,22300,1,0,12,3,Mid-Range
+2024-12-25,1,351,Lenovo IdeaPad 3 15ITL6 82H800U5IN Laptop,Lenovo,11th Gen Core i3,8,512,0,Windows,Intel Integrated UHD,15.6,1920 x 1080,2,4,55,16500,1,0,11,2,Low-End
+2024-12-26,1,361,Microsoft Surface Laptop 3 1873,Microsoft,V4G-00021) Laptop ,8,128,0,Windows,AMD Radeon Vega 9,15.0,2496 x 1664,4,8,59,14500,1,0,0,0,Low-End
+2024-12-27,1,471,Lenovo Thinkpad E14 Gen 2 20TAS0Y800 Laptop,Lenovo,11th Gen Core i5,8,512,0,DOS,Intel UHD,14.1,1920 x 1080,4,8,50,21500,1,0,11,3,Mid-Range
+2024-12-30,1,54,Asus TUF Gaming A15 FA506IHRZ-HN111W Laptop,Asus,AMD Ryzen 5 4600H,8,512,0,Windows,4 GB NVIDIA GeForce GTX 1650,15.6,1920 x 1080,6,12,69,27500,2,4,0,3,Mid-Range
