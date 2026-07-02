@@ -38,7 +38,8 @@ def recommend_laptops(data, usage, budget):
             (data["GPU_Score"] >= 3) &
             (data["ram(GB)"] >= 16) &
             (data["price"] <= budget) &
-            (data["CPU_Class"] >= 3)
+            (data["CPU_Class"] >= 3)&
+            (data["VRAM_GB"] >= 4)
         ]
 
     elif usage == "Programming":
@@ -89,25 +90,37 @@ def recommend_laptops(data, usage, budget):
 
     else:
 
+     if usage == "Gaming":
+
+        alternatives = data[
+            (data["GPU_Score"] >= 3) &
+            (data["VRAM_GB"] >= 4) &
+            (data["ram(GB)"] >= 16) &
+            (data["CPU_Class"] >= 3) &
+            (data["price"] <= budget * 1.2)
+        ]
+
+     else:
+
         alternatives = data[
             data["price"] <= budget * 1.2
         ]
 
         alternatives = alternatives.sort_values(
-            by=["CPU_Class", "GPU_Score", "ram(GB)"],
-            ascending=False
-        )
+        by=["CPU_Class", "GPU_Score", "ram(GB)"],
+        ascending=False
+            )
 
-        return alternatives[[
-            "model_name",
-            "brand",
-            "processor_name",
-            "graphics",
-            "ram(GB)",
-            "ssd(GB)",
-            "price",
-            "Category"
-        ]].head(10)
+    return alternatives[[
+        "model_name",
+        "brand",
+        "processor_name",
+        "graphics",
+        "ram(GB)",
+        "ssd(GB)",
+        "price",
+        "Category"
+    ]].head(10)
 
 if st.button("Recommend Laptops 🎯"):
 

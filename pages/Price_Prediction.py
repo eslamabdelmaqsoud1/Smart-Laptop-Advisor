@@ -411,7 +411,6 @@ threads = st.selectbox(
 )
 input_data["no_of_threads"] = threads
 
-st.write(input_data)
 
 import joblib
 
