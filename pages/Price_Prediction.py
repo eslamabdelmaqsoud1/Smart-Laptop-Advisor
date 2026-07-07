@@ -1,5 +1,8 @@
 import streamlit as st
 import pandas as pd
+import joblib
+from sklearn.ensemble import RandomForestClassifier
+
 
 # =====================================
 # Page Config
@@ -420,6 +423,7 @@ import joblib
 
 model = joblib.load("final_model.pkl")
 scaler = joblib.load("scaler.pkl")
+classifier = joblib.load("classifier.pkl")
 
 # =====================================
 # Predict Button
@@ -447,6 +451,7 @@ feature_order = [
     'os_Windows'
 ]
 
+
 if st.button("Predict Price 💻"):
 
     input_data = input_data[feature_order]
@@ -458,22 +463,27 @@ if st.button("Predict Price 💻"):
     # =========================
     # Classification
     # =========================
+    classification_input = pd.DataFrame(
+    [[
+        cpu_class,
+        gpu_score,
+        vram,
+        ram,
+        ssd
+    ]],
+     columns=[
+        "CPU_Class",
+        "GPU_Score",
+        "VRAM_GB",
+        "ram(GB)",
+        "ssd(GB)"
+    ]
+)
 
-    if (
-        cpu_class >= 4 and
-        gpu_score >= 4 and
-        ram >= 16
-    ):
-        category = "High-End"
-
-    elif (
-        cpu_class >= 3 and
-        ram >= 8
-    ):
-        category = "Mid-Range"
-
-    else:
-        category = "Low-End"
+    predicted_category = classifier.predict(
+    classification_input
+        )[0]
+   
 
     # =========================
     # Results
@@ -482,7 +492,31 @@ if st.button("Predict Price 💻"):
     st.success(
         f"💰 Estimated Laptop Price: {prediction[0]:,.0f} EGP"
     )
-
     st.info(
-        f"🏷️ Laptop Category: {category}"
+    f"🎯 Recommended Usage: {predicted_category}"
+)
+    
+    #-----------
+    if predicted_category == "Gaming":
+
+     st.success(
+        "Also Suitable For: Design, Programming, Office"
+    )
+
+    elif predicted_category == "Design":
+
+     st.success(
+        "Also Suitable For: Programming, Office"
+    )
+
+    elif predicted_category == "Programming":
+
+     st.success(
+        "Also Suitable For: Office"
+    )
+
+    elif predicted_category == "Office":
+
+     st.success(
+        "Also Suitable For: Student"
     )
